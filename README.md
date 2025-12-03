@@ -1,8 +1,8 @@
-Kakuma Food Distribution Analysis
+# Kakuma Food Distribution Analysis
 
 Data-Driven Insights for Humanitarian Food Support in Kakuma Refugee Camp
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project analyzes food distribution patterns in Kakuma Refugee Camp, focusing on fairness, efficiency, and beneficiary satisfaction. Using real distribution records, the analysis identifies gaps, trends, and insights to help humanitarian organizations make more informed decisions about ration allocation and service delivery.
 
@@ -20,7 +20,7 @@ Beneficiary satisfaction dashboards
 
 Recommendations for improving distribution efficiency
 
-🎯 Business Understanding
+# 🎯 Business Understanding
 
 Food distribution is one of the most critical activities in refugee camp management. However, challenges such as unequal allocation, inconsistent service quality, and missing household data can reduce the effectiveness of humanitarian support.
 
@@ -46,7 +46,7 @@ Identification of underserved areas
 
 Enhanced accountability and transparency
 
-📊 Dataset Description
+# 📊 Dataset Description
 
 The dataset contains detailed records of 1,000 household-level distribution events with the following 10 columns:
 
@@ -71,7 +71,7 @@ No duplicate Household_ID entries per distribution event.
 
 Dates are consistent and within expected distribution period.
 
-🧹 Data Cleaning Steps
+# 🧹 Data Cleaning Steps
 
 Key cleaning tasks performed:
 
@@ -93,7 +93,7 @@ Ration per person (Kg per household member)
 
 Total nutritional contribution from rice and oil
 
-🔍 Exploratory Data Analysis (EDA)
+# 🔍 Exploratory Data Analysis (EDA)
 
 The analysis focuses on:
 
@@ -131,7 +131,7 @@ Summaries of total rice and oil delivered
 
 Zone-level nutrition comparisons
 
-📈 Key Insights (Summary)
+# 📈 Key Insights (Summary)
 
 (You can expand this later once analysis is fully complete)
 
