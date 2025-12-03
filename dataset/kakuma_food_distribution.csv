@@ -1,0 +1,1001 @@
+Household_ID,Zone,Household_Size,Distribution_Date,Ration_Type,Ration_Amount_Kg,Satisfaction_Rating,Rice_Kg,Vegetable_Oil_L
+HH0001,Kakuma 4,4.0,2025-06-10,,44.9,,35.5,2.5
+HH0002,Kalobeyei,4.0,2025-06-06,Cash Transfer,46.6,Satisfied,34.8,4.6
+HH0003,Kakuma 3,5.0,2025-06-18,E-Voucher,44.4,Very Unsatisfied,31.9,2.6
+HH0004,Kalobeyei,8.0,2025-06-13,Cash Transfer,31.4,Unsatisfied,24.4,2.6
+HH0005,,5.0,2025-06-03,Dry Rations,,Very Unsatisfied,,2.3
+HH0006,Kakuma 2,,2025-06-30,E-Voucher,25.4,,16.5,2.2
+HH0007,Kakuma 3,1.0,2025-06-24,Cash Transfer,44.9,Unsatisfied,,4.0
+HH0008,,9.0,2025-06-10,Cash Transfer,57.0,Very Unsatisfied,36.8,4.8
+HH0009,Kakuma 3,6.0,2025-06-30,Cash Transfer,21.8,Very Unsatisfied,16.3,1.8
+HH0010,Kalobeyei,3.0,2025-06-14,Cash Transfer,32.4,Satisfied,25.4,3.1
+HH0011,Kakuma 4,8.0,2025-06-06,Cash Transfer,38.2,Very Unsatisfied,,
+HH0012,Kakuma 3,9.0,2025-06-03,E-Voucher,41.7,Satisfied,27.9,2.8
+HH0013,Kalobeyei,6.0,2025-06-16,E-Voucher,48.8,Satisfied,38.7,3.0
+HH0014,Kakuma 2,7.0,2025-06-07,E-Voucher,38.5,Satisfied,26.5,3.8
+HH0015,Kakuma 4,1.0,2025-06-20,E-Voucher,36.8,Unsatisfied,25.7,2.6
+HH0016,Kakuma 2,5.0,2025-06-14,Dry Rations,51.0,Unsatisfied,34.2,4.4
+HH0017,Kakuma 4,5.0,,E-Voucher,46.6,Very Unsatisfied,36.4,3.9
+HH0018,,4.0,2025-06-15,Cash Transfer,45.4,Unsatisfied,32.4,2.8
+HH0019,Kakuma 1,6.0,2025-06-21,Cash Transfer,,Very Unsatisfied,30.9,2.5
+HH0020,Kakuma 4,,2025-06-03,E-Voucher,49.8,Unsatisfied,38.0,3.2
+HH0021,Kakuma 2,9.0,2025-06-02,Cash Transfer,33.4,Very Satisfied,22.3,2.4
+HH0022,Kalobeyei,1.0,2025-06-27,E-Voucher,32.1,Very Satisfied,22.0,2.0
+HH0023,Kakuma 4,6.0,2025-06-02,Cash Transfer,47.5,Very Unsatisfied,36.6,2.4
+HH0024,,7.0,2025-06-03,Dry Rations,23.7,Unsatisfied,15.9,2.2
+HH0025,Kakuma 1,3.0,2025-06-18,Dry Rations,40.9,Unsatisfied,31.0,4.0
+HH0026,Kakuma 3,8.0,2025-06-14,E-Voucher,36.8,Satisfied,29.0,2.5
+HH0027,Kakuma 3,5.0,2025-06-20,E-Voucher,25.9,Neutral,18.8,1.7
+HH0028,Kakuma 2,9.0,2025-06-18,,30.7,Very Unsatisfied,23.0,1.5
+HH0029,Kakuma 4,5.0,2025-06-10,Cash Transfer,38.9,Neutral,29.6,3.3
+HH0030,Kakuma 4,,2025-06-25,E-Voucher,50.3,Neutral,38.7,4.6
+HH0031,Kakuma 3,4.0,2025-06-02,Dry Rations,33.5,Very Unsatisfied,22.7,1.9
+HH0032,Kakuma 4,9.0,2025-06-25,Cash Transfer,52.1,Unsatisfied,31.8,3.0
+HH0033,Kakuma 4,5.0,2025-06-29,E-Voucher,,Very Unsatisfied,,3.6
+HH0034,,9.0,2025-06-22,Cash Transfer,53.1,,39.0,4.3
+HH0035,Kakuma 3,3.0,2025-06-01,Cash Transfer,34.0,Unsatisfied,23.5,1.8
+HH0036,,4.0,,E-Voucher,39.5,Very Satisfied,29.6,3.2
+HH0037,Kakuma 3,9.0,2025-07-01,,43.7,Very Unsatisfied,29.3,
+HH0038,Kalobeyei,6.0,2025-06-14,Dry Rations,38.2,Very Unsatisfied,27.8,2.6
+HH0039,Kakuma 1,2.0,2025-06-01,Dry Rations,49.5,Unsatisfied,31.5,4.4
+HH0040,,7.0,2025-06-14,Cash Transfer,,Very Satisfied,13.4,1.6
+HH0041,Kakuma 4,2.0,2025-06-16,E-Voucher,64.2,Very Satisfied,,4.5
+HH0042,Kakuma 1,2.0,,Cash Transfer,48.6,Unsatisfied,31.1,4.7
+HH0043,Kakuma 4,,2025-06-14,Dry Rations,38.3,Satisfied,25.2,2.7
+HH0044,Kakuma 2,3.0,2025-06-29,Cash Transfer,34.5,Very Unsatisfied,25.9,
+HH0045,Kakuma 2,,2025-06-20,,31.3,Very Unsatisfied,21.8,2.3
+HH0046,Kakuma 1,,2025-06-03,Dry Rations,46.5,Neutral,29.9,4.4
+HH0047,Kakuma 2,9.0,2025-06-03,Cash Transfer,49.9,Unsatisfied,39.6,4.8
+HH0048,Kalobeyei,7.0,2025-06-09,Cash Transfer,38.4,Neutral,,2.1
+HH0049,Kakuma 2,4.0,2025-06-06,E-Voucher,51.1,,40.4,4.9
+HH0050,Kakuma 4,6.0,2025-06-25,E-Voucher,30.9,Very Satisfied,21.2,2.8
+HH0051,Kakuma 4,5.0,2025-06-13,Dry Rations,29.2,Very Unsatisfied,20.3,2.6
+HH0052,Kakuma 4,,2025-06-21,,58.1,Neutral,45.3,3.5
+HH0053,Kakuma 4,1.0,2025-06-02,Dry Rations,45.9,Very Satisfied,32.4,4.1
+HH0054,Kalobeyei,1.0,2025-06-08,E-Voucher,54.0,,40.0,5.0
+HH0055,Kakuma 3,6.0,2025-06-21,Dry Rations,,Neutral,20.5,2.0
+HH0056,Kakuma 1,2.0,2025-06-02,Dry Rations,30.8,Very Unsatisfied,21.2,3.0
+HH0057,Kakuma 4,5.0,2025-06-04,Dry Rations,36.4,Neutral,22.7,1.9
+HH0058,Kakuma 2,1.0,2025-06-25,E-Voucher,31.8,Unsatisfied,20.4,1.8
+HH0059,Kakuma 4,7.0,2025-06-15,Cash Transfer,47.1,Neutral,28.3,3.6
+HH0060,Kakuma 2,1.0,2025-06-04,Dry Rations,32.5,Very Unsatisfied,19.8,
+HH0061,Kakuma 2,4.0,2025-06-13,Cash Transfer,28.3,Very Satisfied,,2.3
+HH0062,Kakuma 4,9.0,2025-06-28,Dry Rations,41.4,Very Unsatisfied,26.8,2.1
+HH0063,Kalobeyei,1.0,2025-06-12,,27.1,Very Satisfied,19.9,2.7
+HH0064,Kakuma 2,4.0,2025-06-28,,22.0,Satisfied,16.9,1.1
+HH0065,Kakuma 2,6.0,2025-06-13,E-Voucher,41.3,,29.3,2.4
+HH0066,Kakuma 4,6.0,,Dry Rations,22.5,Very Unsatisfied,14.2,1.1
+HH0067,Kakuma 2,8.0,2025-06-14,Cash Transfer,47.8,Unsatisfied,35.6,3.7
+HH0068,Kakuma 2,1.0,2025-06-20,E-Voucher,26.0,Neutral,18.7,2.5
+HH0069,Kakuma 4,7.0,2025-06-18,Dry Rations,17.6,Very Satisfied,13.1,1.5
+HH0070,Kakuma 4,1.0,2025-06-29,Dry Rations,37.1,Very Satisfied,28.0,3.4
+HH0071,Kakuma 1,7.0,2025-06-28,E-Voucher,41.4,Unsatisfied,32.9,2.1
+HH0072,Kalobeyei,3.0,2025-07-01,E-Voucher,44.9,Unsatisfied,32.1,3.5
+HH0073,Kalobeyei,8.0,2025-06-06,Dry Rations,,Neutral,27.9,3.0
+HH0074,Kakuma 2,3.0,2025-06-29,Cash Transfer,29.4,Neutral,21.5,2.2
+HH0075,Kalobeyei,1.0,2025-06-11,Cash Transfer,47.1,Very Unsatisfied,28.9,2.5
+HH0076,Kakuma 2,8.0,2025-06-30,Cash Transfer,49.6,Satisfied,38.7,4.2
+HH0077,Kakuma 1,3.0,2025-06-02,Dry Rations,27.9,Neutral,17.4,2.1
+HH0078,Kakuma 4,2.0,2025-06-28,E-Voucher,38.2,Unsatisfied,25.4,
+HH0079,Kakuma 4,1.0,2025-06-23,Dry Rations,37.3,Neutral,28.5,2.8
+HH0080,Kakuma 4,3.0,2025-06-19,,42.2,Very Satisfied,30.4,2.4
+HH0081,Kalobeyei,2.0,2025-07-01,Cash Transfer,38.0,Satisfied,25.8,3.1
+HH0082,Kakuma 1,2.0,2025-06-19,Cash Transfer,,Very Unsatisfied,27.3,2.3
+HH0083,Kalobeyei,6.0,,,46.4,Very Satisfied,35.8,4.3
+HH0084,Kalobeyei,1.0,2025-06-19,E-Voucher,28.9,Very Satisfied,19.3,2.3
+HH0085,Kakuma 1,2.0,2025-06-02,Dry Rations,47.4,Satisfied,36.7,2.7
+HH0086,Kakuma 1,6.0,2025-06-10,Cash Transfer,51.4,Very Unsatisfied,31.7,5.0
+HH0087,Kakuma 1,3.0,2025-06-25,Dry Rations,56.3,Unsatisfied,42.5,4.3
+HH0088,Kakuma 1,4.0,2025-06-02,Dry Rations,,,,1.0
+HH0089,Kakuma 4,1.0,2025-06-30,Dry Rations,,,24.3,3.1
+HH0090,Kakuma 3,8.0,2025-06-11,Cash Transfer,20.3,Very Satisfied,13.9,1.3
+HH0091,Kakuma 3,7.0,2025-06-18,Dry Rations,,Neutral,9.9,1.4
+HH0092,Kakuma 1,7.0,2025-06-29,Dry Rations,41.4,Unsatisfied,,3.8
+HH0093,Kakuma 3,3.0,2025-07-01,Dry Rations,,Neutral,25.5,3.6
+HH0094,Kakuma 3,,2025-06-24,Dry Rations,43.0,,31.3,3.2
+HH0095,Kakuma 1,2.0,2025-06-15,,44.9,Neutral,28.7,3.3
+HH0096,Kakuma 3,1.0,2025-06-09,Dry Rations,52.5,Unsatisfied,33.7,4.6
+HH0097,Kalobeyei,7.0,2025-06-23,Cash Transfer,40.5,Unsatisfied,24.6,2.3
+HH0098,,,2025-06-19,,69.2,Unsatisfied,46.0,5.4
+HH0099,Kakuma 2,2.0,2025-06-09,E-Voucher,43.1,Very Unsatisfied,30.7,3.3
+HH0100,Kakuma 1,7.0,2025-06-03,Dry Rations,58.4,Unsatisfied,,3.2
+HH0101,Kakuma 4,8.0,2025-06-21,Dry Rations,16.7,Very Satisfied,12.2,1.2
+HH0102,Kakuma 1,,2025-06-09,Cash Transfer,53.5,,36.8,
+HH0103,Kakuma 4,9.0,2025-06-28,Cash Transfer,38.2,Neutral,30.2,3.5
+HH0104,Kakuma 2,7.0,2025-06-30,E-Voucher,20.5,Neutral,15.2,
+HH0105,Kakuma 1,3.0,2025-06-14,E-Voucher,44.2,Neutral,34.7,2.4
+HH0106,Kalobeyei,,2025-06-19,Cash Transfer,37.0,Very Unsatisfied,26.1,2.3
+HH0107,Kakuma 3,7.0,2025-06-07,Cash Transfer,45.8,Neutral,29.9,4.3
+HH0108,Kakuma 4,,2025-06-16,,50.1,Very Unsatisfied,30.6,2.8
+HH0109,Kakuma 3,6.0,2025-06-16,Cash Transfer,25.1,Very Unsatisfied,18.7,
+HH0110,,9.0,2025-06-28,E-Voucher,50.1,Unsatisfied,31.3,2.8
+HH0111,Kakuma 1,5.0,2025-06-01,Dry Rations,40.1,Very Satisfied,26.5,3.3
+HH0112,Kakuma 3,3.0,2025-06-04,E-Voucher,53.5,Unsatisfied,37.8,3.6
+HH0113,Kalobeyei,3.0,2025-06-04,,37.9,Unsatisfied,27.0,3.4
+HH0114,Kakuma 3,1.0,2025-06-07,Cash Transfer,35.3,Very Unsatisfied,25.4,2.2
+HH0115,Kakuma 1,8.0,2025-06-08,E-Voucher,40.3,Very Unsatisfied,,3.3
+HH0116,Kalobeyei,,2025-06-17,Dry Rations,41.0,Neutral,27.7,2.5
+HH0117,Kakuma 2,3.0,2025-06-05,Dry Rations,33.4,Neutral,24.2,2.9
+HH0118,Kakuma 3,8.0,2025-06-07,Cash Transfer,35.0,Unsatisfied,27.8,
+HH0119,Kakuma 1,8.0,2025-06-28,Cash Transfer,27.7,,20.7,1.6
+HH0120,Kakuma 2,4.0,2025-06-20,Cash Transfer,35.7,Satisfied,28.0,3.3
+HH0121,Kakuma 2,4.0,2025-06-29,E-Voucher,46.8,,35.2,3.7
+HH0122,Kakuma 4,5.0,2025-06-20,,38.6,Satisfied,27.7,2.2
+HH0123,Kalobeyei,6.0,2025-06-04,,50.1,Neutral,32.0,3.6
+HH0124,Kakuma 3,5.0,,E-Voucher,38.1,,27.9,
+HH0125,Kakuma 1,7.0,2025-06-06,E-Voucher,25.7,,18.6,2.2
+HH0126,Kakuma 4,2.0,,E-Voucher,46.0,,,4.0
+HH0127,Kalobeyei,7.0,2025-06-18,Cash Transfer,33.3,Unsatisfied,23.2,1.8
+HH0128,Kakuma 4,7.0,2025-07-01,Cash Transfer,37.7,Neutral,26.6,2.8
+HH0129,Kalobeyei,1.0,,Dry Rations,,Neutral,34.9,4.8
+HH0130,Kalobeyei,7.0,2025-06-20,Dry Rations,28.4,Unsatisfied,20.0,2.7
+HH0131,Kakuma 3,5.0,2025-07-01,Cash Transfer,41.6,Neutral,26.6,3.1
+HH0132,Kalobeyei,3.0,2025-06-30,E-Voucher,39.6,Satisfied,30.1,3.9
+HH0133,Kakuma 4,3.0,2025-06-29,E-Voucher,47.0,Satisfied,29.9,3.6
+HH0134,Kalobeyei,4.0,2025-06-03,E-Voucher,48.6,Neutral,30.0,3.4
+HH0135,Kakuma 3,2.0,2025-06-07,Dry Rations,42.6,Neutral,29.3,3.9
+HH0136,Kakuma 3,2.0,2025-06-27,E-Voucher,36.4,Satisfied,26.6,2.7
+HH0137,Kakuma 4,1.0,,Dry Rations,,Neutral,30.7,3.3
+HH0138,Kakuma 2,5.0,2025-06-22,Dry Rations,,Neutral,35.0,4.0
+HH0139,Kakuma 2,4.0,2025-06-14,E-Voucher,39.7,,,3.7
+HH0140,Kalobeyei,,2025-06-07,,37.3,,25.0,3.4
+HH0141,Kakuma 1,3.0,2025-06-05,Cash Transfer,43.9,Satisfied,,3.1
+HH0142,Kalobeyei,7.0,2025-06-29,Cash Transfer,40.4,Unsatisfied,31.7,
+HH0143,Kakuma 4,7.0,2025-06-22,E-Voucher,26.6,Very Satisfied,18.6,2.0
+HH0144,Kakuma 4,4.0,2025-06-05,Dry Rations,42.4,Neutral,28.2,3.3
+HH0145,Kakuma 4,5.0,2025-06-30,Dry Rations,,Neutral,19.8,1.6
+HH0146,Kakuma 4,5.0,2025-06-23,Dry Rations,43.7,Unsatisfied,26.5,3.9
+HH0147,Kakuma 4,6.0,2025-06-02,,32.0,Neutral,22.2,2.4
+HH0148,Kakuma 3,9.0,,,40.4,Very Unsatisfied,27.0,2.7
+HH0149,Kakuma 2,2.0,2025-06-27,Cash Transfer,43.9,Unsatisfied,34.4,2.4
+HH0150,Kakuma 4,5.0,2025-06-21,E-Voucher,,Very Satisfied,38.9,4.0
+HH0151,Kakuma 1,3.0,2025-06-22,Cash Transfer,47.4,,33.7,4.6
+HH0152,Kakuma 1,4.0,2025-06-06,Dry Rations,53.6,Satisfied,40.1,3.5
+HH0153,,6.0,,,58.7,Unsatisfied,40.9,3.4
+HH0154,Kakuma 1,8.0,,Dry Rations,,Neutral,27.7,3.3
+HH0155,,1.0,2025-06-10,Dry Rations,42.9,,34.1,2.8
+HH0156,Kakuma 1,8.0,2025-06-23,E-Voucher,29.3,Very Unsatisfied,20.6,1.5
+HH0157,Kakuma 4,7.0,2025-06-26,Dry Rations,38.8,Very Unsatisfied,28.0,
+HH0158,Kalobeyei,1.0,2025-06-24,,32.8,Very Unsatisfied,21.2,2.5
+HH0159,Kakuma 1,,2025-06-07,Dry Rations,36.0,,25.1,2.8
+HH0160,Kakuma 3,3.0,2025-06-05,E-Voucher,,Very Unsatisfied,40.3,4.0
+HH0161,Kakuma 3,1.0,,Cash Transfer,41.1,Very Satisfied,25.3,3.0
+HH0162,Kakuma 1,9.0,2025-06-13,Dry Rations,31.2,Very Unsatisfied,19.4,
+HH0163,Kalobeyei,8.0,2025-06-21,E-Voucher,53.7,Very Satisfied,41.2,
+HH0164,Kakuma 1,2.0,2025-06-26,Cash Transfer,49.6,Unsatisfied,32.1,3.1
+HH0165,Kakuma 3,9.0,2025-06-18,Dry Rations,50.1,Unsatisfied,,3.1
+HH0166,Kakuma 2,7.0,2025-06-13,Dry Rations,19.9,Neutral,13.9,
+HH0167,Kakuma 4,9.0,2025-06-21,Dry Rations,,Very Satisfied,44.8,5.2
+HH0168,Kakuma 3,6.0,2025-06-21,E-Voucher,34.4,Satisfied,21.1,2.1
+HH0169,Kakuma 1,6.0,2025-06-18,E-Voucher,47.8,Neutral,34.2,4.1
+HH0170,Kakuma 4,4.0,2025-06-05,Cash Transfer,,Unsatisfied,40.7,3.3
+HH0171,Kakuma 1,2.0,,E-Voucher,,,37.4,4.4
+HH0172,Kakuma 1,7.0,2025-06-04,E-Voucher,30.2,Very Unsatisfied,18.4,2.7
+HH0173,Kakuma 2,5.0,,Dry Rations,25.6,,19.6,1.7
+HH0174,Kakuma 4,6.0,2025-06-03,Dry Rations,54.3,Unsatisfied,33.9,
+HH0175,Kakuma 4,2.0,2025-06-17,Dry Rations,41.4,Neutral,25.2,2.5
+HH0176,Kakuma 2,,2025-06-28,Dry Rations,,Very Satisfied,24.1,3.0
+HH0177,Kakuma 3,,2025-06-11,Dry Rations,46.2,Satisfied,35.5,2.4
+HH0178,Kakuma 1,9.0,2025-07-01,Dry Rations,38.4,Very Satisfied,25.1,3.6
+HH0179,,6.0,2025-06-21,Dry Rations,47.0,Very Unsatisfied,32.2,2.8
+HH0180,Kakuma 1,2.0,2025-06-20,Cash Transfer,40.7,Neutral,24.7,3.8
+HH0181,Kakuma 1,1.0,2025-06-23,Cash Transfer,47.2,Very Satisfied,32.6,3.2
+HH0182,Kakuma 3,5.0,,Cash Transfer,31.1,Unsatisfied,22.3,2.7
+HH0183,Kakuma 1,9.0,2025-06-26,Cash Transfer,54.2,Neutral,38.7,3.6
+HH0184,Kakuma 2,6.0,2025-06-30,Dry Rations,47.0,Unsatisfied,31.3,4.5
+HH0185,Kakuma 2,7.0,2025-06-04,Cash Transfer,46.5,Very Satisfied,30.8,2.6
+HH0186,Kakuma 4,5.0,2025-06-02,,28.8,Neutral,17.9,1.7
+HH0187,Kalobeyei,6.0,2025-06-20,Cash Transfer,57.0,Unsatisfied,38.4,4.3
+HH0188,,5.0,2025-06-16,E-Voucher,39.9,Very Unsatisfied,,2.2
+HH0189,Kakuma 1,9.0,,Cash Transfer,47.3,Very Unsatisfied,35.6,2.8
+HH0190,,6.0,2025-06-18,Cash Transfer,36.8,Very Satisfied,29.2,3.6
+HH0191,Kakuma 2,8.0,2025-06-08,Dry Rations,42.6,Neutral,33.8,4.2
+HH0192,Kalobeyei,2.0,2025-06-03,Cash Transfer,,Satisfied,33.2,3.0
+HH0193,Kakuma 4,9.0,2025-06-09,E-Voucher,,Neutral,8.5,
+HH0194,Kakuma 2,5.0,2025-06-29,Dry Rations,45.8,Very Unsatisfied,33.9,3.5
+HH0195,Kakuma 4,7.0,2025-06-20,Dry Rations,59.7,Unsatisfied,39.2,3.8
+HH0196,Kakuma 3,1.0,2025-06-29,Cash Transfer,45.4,Satisfied,33.0,3.9
+HH0197,,5.0,2025-06-06,,30.4,Very Satisfied,21.0,2.5
+HH0198,Kakuma 1,2.0,2025-06-10,,46.5,Satisfied,32.4,4.6
+HH0199,Kalobeyei,6.0,2025-06-21,Dry Rations,50.6,Very Satisfied,38.0,
+HH0200,Kakuma 4,1.0,2025-06-10,Dry Rations,45.1,,29.6,3.8
+HH0201,Kakuma 2,3.0,,Dry Rations,39.3,Very Satisfied,26.1,2.1
+HH0202,Kakuma 3,5.0,,Dry Rations,37.6,Very Satisfied,29.5,2.1
+HH0203,Kakuma 1,,2025-06-09,E-Voucher,,Satisfied,22.9,1.9
+HH0204,Kakuma 1,3.0,2025-06-17,Cash Transfer,47.0,Satisfied,32.8,4.7
+HH0205,Kakuma 4,5.0,2025-06-24,E-Voucher,25.9,Very Satisfied,20.3,2.3
+HH0206,Kakuma 3,8.0,,Dry Rations,36.3,Very Unsatisfied,26.2,3.2
+HH0207,Kalobeyei,4.0,2025-06-09,Dry Rations,56.0,Satisfied,39.7,4.2
+HH0208,Kakuma 3,1.0,2025-06-01,Cash Transfer,56.3,Neutral,36.6,3.7
+HH0209,Kakuma 4,,,E-Voucher,25.2,Unsatisfied,16.9,1.5
+HH0210,Kakuma 4,8.0,2025-06-28,Cash Transfer,28.7,Very Satisfied,22.1,1.8
+HH0211,Kakuma 3,3.0,2025-06-16,E-Voucher,37.3,Very Satisfied,26.6,
+HH0212,,6.0,2025-06-29,Dry Rations,48.9,Unsatisfied,34.4,4.3
+HH0213,Kakuma 3,2.0,2025-06-01,Cash Transfer,21.7,Very Unsatisfied,13.5,1.7
+HH0214,Kakuma 2,7.0,2025-06-10,Cash Transfer,39.5,Unsatisfied,23.8,2.1
+HH0215,Kakuma 3,8.0,2025-06-18,Dry Rations,35.3,Satisfied,28.0,1.8
+HH0216,Kakuma 3,6.0,2025-06-26,,53.3,Unsatisfied,36.0,2.9
+HH0217,Kakuma 4,6.0,2025-06-28,E-Voucher,23.2,Very Satisfied,16.7,1.6
+HH0218,Kakuma 4,5.0,2025-06-08,E-Voucher,,Unsatisfied,,4.0
+HH0219,Kakuma 1,8.0,,E-Voucher,36.1,Neutral,26.6,3.0
+HH0220,,1.0,2025-06-28,E-Voucher,54.7,,43.0,4.9
+HH0221,Kakuma 2,4.0,2025-06-11,Dry Rations,46.0,Unsatisfied,32.9,
+HH0222,Kakuma 1,4.0,2025-06-23,Cash Transfer,34.1,Very Satisfied,21.3,2.3
+HH0223,Kakuma 3,3.0,2025-06-02,,48.5,Satisfied,34.7,2.7
+HH0224,Kakuma 4,3.0,2025-06-08,Dry Rations,36.1,Very Satisfied,27.2,3.4
+HH0225,Kakuma 1,4.0,2025-06-27,,50.0,Very Unsatisfied,34.1,4.5
+HH0226,Kakuma 1,1.0,2025-06-22,Cash Transfer,37.6,Neutral,29.2,2.2
+HH0227,Kakuma 2,2.0,2025-06-08,Dry Rations,50.5,Very Unsatisfied,36.9,3.8
+HH0228,Kakuma 2,9.0,2025-06-17,Dry Rations,44.4,Neutral,34.6,3.3
+HH0229,Kakuma 3,2.0,,E-Voucher,72.6,,52.6,5.9
+HH0230,Kakuma 4,,2025-06-17,Cash Transfer,39.5,Satisfied,24.7,3.8
+HH0231,Kakuma 2,9.0,2025-06-28,,43.8,Unsatisfied,29.0,3.5
+HH0232,Kakuma 1,9.0,2025-06-23,Dry Rations,35.2,Neutral,22.5,2.7
+HH0233,Kakuma 4,8.0,2025-06-24,Cash Transfer,,Neutral,31.3,2.1
+HH0234,Kakuma 4,1.0,2025-06-13,E-Voucher,13.0,Neutral,9.8,0.7
+HH0235,Kakuma 1,1.0,2025-06-19,Cash Transfer,44.7,,32.9,2.7
+HH0236,,9.0,2025-06-05,Dry Rations,53.4,Satisfied,,2.8
+HH0237,Kakuma 1,8.0,2025-06-12,Dry Rations,44.0,Unsatisfied,28.0,3.8
+HH0238,Kakuma 4,9.0,2025-06-01,E-Voucher,26.9,Unsatisfied,20.2,2.3
+HH0239,Kalobeyei,7.0,2025-06-23,E-Voucher,32.0,Very Unsatisfied,22.2,1.8
+HH0240,Kalobeyei,3.0,2025-06-05,Cash Transfer,15.7,Neutral,,1.4
+HH0241,Kakuma 3,3.0,,Cash Transfer,49.8,Neutral,36.0,2.9
+HH0242,Kakuma 1,2.0,2025-06-13,Dry Rations,29.9,Neutral,18.2,1.9
+HH0243,,5.0,2025-06-08,E-Voucher,39.7,Unsatisfied,26.4,2.5
+HH0244,Kakuma 3,3.0,2025-06-25,E-Voucher,38.5,Very Unsatisfied,26.7,2.6
+HH0245,Kakuma 3,6.0,2025-06-23,E-Voucher,54.9,Very Satisfied,34.6,3.4
+HH0246,Kakuma 3,2.0,2025-06-11,Cash Transfer,40.9,Satisfied,32.6,3.0
+HH0247,Kakuma 4,,2025-06-01,E-Voucher,48.1,Very Satisfied,30.9,3.4
+HH0248,Kakuma 1,,,Dry Rations,45.5,Unsatisfied,28.5,4.5
+HH0249,Kakuma 4,1.0,2025-06-19,Dry Rations,53.6,Neutral,,2.8
+HH0250,,1.0,2025-06-24,Cash Transfer,37.6,Satisfied,28.3,2.1
+HH0251,Kakuma 1,9.0,,Cash Transfer,58.7,Unsatisfied,40.2,
+HH0252,Kakuma 4,7.0,2025-06-24,E-Voucher,20.1,Unsatisfied,14.3,1.6
+HH0253,Kakuma 4,1.0,2025-06-17,Cash Transfer,48.6,,29.4,2.6
+HH0254,Kakuma 3,8.0,2025-06-05,Dry Rations,,Satisfied,19.0,2.9
+HH0255,Kakuma 1,3.0,2025-06-20,E-Voucher,35.1,Satisfied,,2.7
+HH0256,,8.0,2025-06-21,Dry Rations,45.7,Very Unsatisfied,34.9,
+HH0257,Kakuma 1,5.0,2025-06-08,E-Voucher,45.6,Very Unsatisfied,35.4,3.6
+HH0258,Kalobeyei,1.0,2025-06-26,Cash Transfer,46.1,Very Satisfied,28.5,2.7
+HH0259,Kakuma 2,7.0,2025-07-01,E-Voucher,26.1,Satisfied,18.5,1.6
+HH0260,Kakuma 2,5.0,2025-06-14,,54.5,Satisfied,42.7,3.6
+HH0261,Kakuma 2,6.0,2025-06-04,Dry Rations,31.0,Satisfied,21.0,2.5
+HH0262,,6.0,2025-06-11,Dry Rations,32.3,Very Unsatisfied,24.7,2.0
+HH0263,,8.0,,E-Voucher,46.4,Unsatisfied,29.1,2.6
+HH0264,Kakuma 1,9.0,2025-06-15,Cash Transfer,37.1,Neutral,29.2,3.7
+HH0265,Kakuma 4,2.0,2025-06-19,Cash Transfer,43.1,Very Unsatisfied,,2.2
+HH0266,Kakuma 1,9.0,2025-06-07,Dry Rations,,Satisfied,14.5,
+HH0267,,9.0,,Cash Transfer,42.8,Very Unsatisfied,31.5,3.8
+HH0268,Kakuma 1,7.0,2025-06-28,Dry Rations,42.2,Very Satisfied,28.4,2.7
+HH0269,Kalobeyei,1.0,2025-06-19,Cash Transfer,34.9,,,2.0
+HH0270,Kakuma 4,,2025-06-11,,19.3,Very Satisfied,12.6,1.1
+HH0271,Kakuma 3,5.0,2025-06-26,,37.9,Satisfied,25.3,3.2
+HH0272,Kakuma 1,6.0,2025-06-05,Dry Rations,39.6,Very Unsatisfied,29.3,3.3
+HH0273,Kakuma 1,7.0,2025-06-05,E-Voucher,36.3,Unsatisfied,27.3,3.2
+HH0274,Kakuma 4,5.0,2025-06-30,Dry Rations,21.6,Neutral,17.0,2.1
+HH0275,Kakuma 3,7.0,2025-06-22,Cash Transfer,55.9,Very Satisfied,35.8,4.7
+HH0276,Kakuma 3,9.0,2025-06-08,Cash Transfer,33.6,Very Unsatisfied,25.5,1.9
+HH0277,Kalobeyei,3.0,2025-06-10,Dry Rations,37.8,Unsatisfied,28.3,2.4
+HH0278,Kakuma 3,8.0,2025-06-06,Cash Transfer,15.9,Very Unsatisfied,9.7,1.5
+HH0279,Kakuma 3,2.0,2025-06-15,Dry Rations,,Very Satisfied,37.9,3.4
+HH0280,Kakuma 3,7.0,2025-06-16,E-Voucher,35.3,Neutral,23.2,
+HH0281,Kakuma 2,2.0,2025-06-28,,41.0,Very Unsatisfied,27.1,3.5
+HH0282,Kalobeyei,4.0,2025-06-17,E-Voucher,51.2,Satisfied,40.8,
+HH0283,Kakuma 1,7.0,,Cash Transfer,33.2,,24.2,3.2
+HH0284,Kakuma 4,3.0,2025-06-08,E-Voucher,49.6,,36.9,4.1
+HH0285,Kakuma 1,2.0,2025-06-08,Cash Transfer,19.4,,15.4,1.1
+HH0286,,7.0,2025-06-25,Dry Rations,45.5,Satisfied,30.7,4.4
+HH0287,Kakuma 4,1.0,2025-06-09,,,Neutral,42.4,3.5
+HH0288,Kalobeyei,8.0,2025-06-02,Dry Rations,34.2,,23.5,2.3
+HH0289,Kakuma 3,3.0,2025-06-15,Dry Rations,51.2,Satisfied,39.6,3.6
+HH0290,,2.0,2025-06-18,E-Voucher,58.3,Unsatisfied,37.1,3.1
+HH0291,,3.0,2025-06-03,E-Voucher,37.5,Very Unsatisfied,29.6,
+HH0292,Kakuma 1,5.0,2025-06-17,E-Voucher,36.6,Satisfied,23.6,2.1
+HH0293,Kakuma 1,8.0,2025-06-04,E-Voucher,,Very Satisfied,20.6,2.2
+HH0294,Kakuma 4,,2025-06-30,Cash Transfer,34.9,Unsatisfied,26.2,2.4
+HH0295,Kakuma 4,7.0,2025-06-04,Cash Transfer,31.8,,21.6,2.8
+HH0296,Kalobeyei,7.0,2025-06-14,Cash Transfer,31.0,Satisfied,,2.8
+HH0297,Kalobeyei,8.0,,Dry Rations,52.0,Neutral,35.8,3.0
+HH0298,Kakuma 3,1.0,2025-06-09,Cash Transfer,32.1,Unsatisfied,24.0,2.2
+HH0299,Kakuma 4,4.0,2025-06-25,Cash Transfer,,,27.5,2.9
+HH0300,Kakuma 1,6.0,2025-06-26,Cash Transfer,40.4,Satisfied,24.7,
+HH0301,,9.0,2025-06-23,E-Voucher,55.0,Unsatisfied,36.3,4.9
+HH0302,Kalobeyei,2.0,2025-06-30,Cash Transfer,35.0,Very Satisfied,24.3,3.0
+HH0303,Kakuma 1,1.0,2025-07-01,Dry Rations,43.8,Satisfied,27.8,2.6
+HH0304,,2.0,2025-06-18,E-Voucher,47.9,Very Unsatisfied,32.1,3.3
+HH0305,Kakuma 3,7.0,2025-06-10,Dry Rations,,Satisfied,37.3,3.0
+HH0306,Kakuma 4,3.0,2025-06-21,Cash Transfer,34.8,Unsatisfied,21.3,
+HH0307,Kakuma 1,2.0,2025-06-04,E-Voucher,33.8,Satisfied,24.2,1.9
+HH0308,Kakuma 4,7.0,2025-06-12,Dry Rations,29.4,Very Satisfied,22.8,2.9
+HH0309,Kalobeyei,2.0,2025-06-27,Cash Transfer,62.4,Very Satisfied,39.3,
+HH0310,Kalobeyei,,2025-06-08,Dry Rations,53.8,Very Unsatisfied,38.7,3.7
+HH0311,Kakuma 1,7.0,2025-06-02,Dry Rations,39.6,Neutral,29.0,3.1
+HH0312,,4.0,2025-06-22,Dry Rations,59.3,Unsatisfied,40.6,5.7
+HH0313,Kakuma 2,1.0,,,39.0,Unsatisfied,28.9,
+HH0314,Kakuma 1,5.0,2025-06-21,Cash Transfer,47.2,Neutral,32.2,2.8
+HH0315,Kakuma 2,,2025-07-01,Dry Rations,40.1,Very Satisfied,28.1,2.8
+HH0316,Kakuma 2,8.0,2025-06-16,E-Voucher,44.0,Very Satisfied,26.5,4.1
+HH0317,Kakuma 3,9.0,2025-06-28,E-Voucher,42.9,Satisfied,31.7,3.5
+HH0318,Kakuma 2,9.0,2025-06-02,Cash Transfer,35.8,Very Unsatisfied,26.2,3.0
+HH0319,Kakuma 2,7.0,2025-06-11,Cash Transfer,50.9,Very Unsatisfied,30.9,4.8
+HH0320,Kakuma 3,4.0,2025-06-10,Cash Transfer,47.2,Very Unsatisfied,31.8,4.5
+HH0321,Kakuma 2,5.0,2025-06-15,Cash Transfer,50.3,Satisfied,40.0,4.8
+HH0322,Kakuma 2,1.0,2025-06-17,Cash Transfer,43.2,,,2.4
+HH0323,Kakuma 2,,2025-06-08,,30.9,Neutral,21.6,2.4
+HH0324,Kakuma 1,3.0,2025-06-18,Cash Transfer,57.1,Satisfied,44.7,5.0
+HH0325,Kakuma 1,8.0,2025-06-23,Dry Rations,37.4,Neutral,,3.3
+HH0326,Kakuma 1,2.0,,Dry Rations,,Satisfied,31.2,3.5
+HH0327,Kakuma 3,,2025-06-25,E-Voucher,46.4,Very Unsatisfied,35.2,2.7
+HH0328,Kalobeyei,2.0,2025-06-08,Dry Rations,43.6,Neutral,33.7,3.9
+HH0329,Kakuma 2,5.0,2025-06-27,E-Voucher,49.2,Neutral,34.0,4.2
+HH0330,Kakuma 2,9.0,2025-06-14,E-Voucher,50.7,Neutral,35.2,2.8
+HH0331,Kakuma 3,1.0,2025-06-28,Dry Rations,37.8,Satisfied,25.6,2.8
+HH0332,Kakuma 2,5.0,2025-06-26,,56.3,Unsatisfied,44.7,
+HH0333,,9.0,2025-06-25,Dry Rations,37.3,Very Unsatisfied,27.6,
+HH0334,Kalobeyei,1.0,2025-06-18,Dry Rations,43.4,Neutral,26.8,2.2
+HH0335,Kakuma 4,,2025-06-22,,36.1,Unsatisfied,27.9,2.5
+HH0336,Kakuma 2,8.0,2025-06-20,Dry Rations,33.3,Very Unsatisfied,23.2,2.6
+HH0337,Kakuma 1,,2025-06-30,E-Voucher,50.4,Very Unsatisfied,,4.1
+HH0338,Kakuma 4,5.0,,,71.2,Neutral,50.5,5.9
+HH0339,Kalobeyei,5.0,2025-06-21,,36.4,Neutral,24.9,
+HH0340,Kakuma 4,6.0,2025-06-12,Cash Transfer,52.2,Satisfied,40.5,3.2
+HH0341,Kakuma 1,,2025-06-19,Dry Rations,36.7,,23.5,2.1
+HH0342,Kakuma 4,8.0,2025-06-14,E-Voucher,39.9,Unsatisfied,30.5,3.7
+HH0343,Kakuma 3,8.0,2025-06-17,Cash Transfer,57.6,Neutral,41.0,3.3
+HH0344,Kakuma 4,2.0,2025-06-24,,29.3,Very Unsatisfied,17.9,2.9
+HH0345,Kakuma 2,9.0,2025-06-21,E-Voucher,26.6,Neutral,,2.5
+HH0346,Kakuma 2,7.0,,Cash Transfer,39.1,Very Unsatisfied,,2.9
+HH0347,Kakuma 3,4.0,2025-06-26,Cash Transfer,46.6,Very Unsatisfied,,4.6
+HH0348,Kakuma 1,4.0,2025-06-30,E-Voucher,44.6,Neutral,30.9,2.4
+HH0349,Kakuma 2,8.0,,Cash Transfer,43.6,,33.6,2.8
+HH0350,,4.0,2025-06-07,E-Voucher,40.3,Unsatisfied,26.6,3.3
+HH0351,Kakuma 2,6.0,2025-06-17,E-Voucher,47.9,Very Unsatisfied,30.6,3.2
+HH0352,Kakuma 2,,2025-06-12,Cash Transfer,10.9,Very Unsatisfied,6.8,1.1
+HH0353,Kakuma 1,3.0,2025-06-09,Dry Rations,32.5,Very Satisfied,21.4,1.7
+HH0354,Kakuma 4,2.0,,Cash Transfer,39.1,Satisfied,29.6,3.0
+HH0355,Kakuma 2,9.0,,Dry Rations,47.0,,,
+HH0356,Kakuma 3,9.0,2025-06-21,E-Voucher,54.9,Very Satisfied,35.4,4.5
+HH0357,Kakuma 4,1.0,,E-Voucher,31.1,Very Unsatisfied,19.7,2.0
+HH0358,Kalobeyei,3.0,2025-06-30,Dry Rations,54.6,Unsatisfied,36.4,3.7
+HH0359,Kakuma 1,8.0,2025-06-21,E-Voucher,,Very Satisfied,28.0,3.3
+HH0360,,,2025-06-30,Dry Rations,38.7,Satisfied,25.9,2.3
+HH0361,Kakuma 4,5.0,2025-06-08,Dry Rations,45.8,Neutral,36.5,4.2
+HH0362,Kakuma 4,5.0,2025-06-14,E-Voucher,38.0,Very Satisfied,26.5,3.0
+HH0363,,6.0,2025-06-08,Dry Rations,51.1,Very Satisfied,32.5,4.5
+HH0364,Kalobeyei,7.0,2025-06-14,Cash Transfer,36.0,Satisfied,,3.1
+HH0365,Kakuma 4,1.0,2025-06-07,Cash Transfer,36.1,Unsatisfied,25.0,2.2
+HH0366,Kalobeyei,,2025-06-23,E-Voucher,50.5,Very Satisfied,37.5,4.0
+HH0367,Kakuma 4,3.0,2025-06-12,E-Voucher,32.4,Very Satisfied,25.8,3.0
+HH0368,Kakuma 3,4.0,2025-06-11,Dry Rations,42.5,Unsatisfied,25.9,3.0
+HH0369,,1.0,,Dry Rations,23.4,Satisfied,14.5,2.3
+HH0370,Kalobeyei,3.0,2025-06-22,Dry Rations,58.2,Very Satisfied,43.3,4.2
+HH0371,Kakuma 2,2.0,2025-06-11,Dry Rations,52.1,,34.2,3.0
+HH0372,Kakuma 4,2.0,2025-06-25,Cash Transfer,67.5,Very Satisfied,43.0,4.7
+HH0373,Kakuma 2,1.0,2025-06-22,Cash Transfer,53.4,Neutral,32.5,5.2
+HH0374,Kakuma 3,8.0,2025-06-28,,28.7,Very Unsatisfied,17.3,1.9
+HH0375,Kakuma 1,3.0,2025-06-29,Dry Rations,46.7,Neutral,35.3,4.4
+HH0376,Kakuma 3,3.0,,,30.8,Very Satisfied,19.3,2.9
+HH0377,Kakuma 4,6.0,,E-Voucher,55.8,Satisfied,38.7,3.8
+HH0378,Kakuma 2,8.0,2025-06-02,Dry Rations,29.0,Very Unsatisfied,20.9,1.6
+HH0379,Kakuma 2,9.0,,Dry Rations,28.5,Neutral,19.5,2.5
+HH0380,Kalobeyei,9.0,2025-06-21,Dry Rations,23.9,Unsatisfied,,1.6
+HH0381,Kakuma 2,4.0,2025-06-15,,35.1,Satisfied,26.6,3.1
+HH0382,Kalobeyei,5.0,2025-06-20,Dry Rations,33.1,Neutral,19.9,2.4
+HH0383,Kakuma 1,2.0,2025-06-27,E-Voucher,27.4,,20.6,2.0
+HH0384,Kakuma 4,9.0,,Dry Rations,59.9,,,
+HH0385,Kalobeyei,8.0,2025-07-01,E-Voucher,45.3,Unsatisfied,31.1,3.1
+HH0386,Kakuma 1,3.0,2025-06-15,Dry Rations,44.1,Neutral,31.2,3.2
+HH0387,Kakuma 2,9.0,2025-06-19,Cash Transfer,55.9,Neutral,38.9,3.8
+HH0388,Kakuma 2,3.0,2025-06-23,Cash Transfer,42.6,Very Satisfied,,2.9
+HH0389,Kakuma 1,,2025-06-24,Cash Transfer,32.5,Unsatisfied,25.3,2.5
+HH0390,Kakuma 2,2.0,2025-06-12,Cash Transfer,23.0,Unsatisfied,17.9,2.1
+HH0391,Kakuma 1,9.0,2025-06-13,E-Voucher,31.9,Very Satisfied,21.3,2.2
+HH0392,Kalobeyei,8.0,2025-06-22,E-Voucher,55.1,,39.8,4.2
+HH0393,Kalobeyei,9.0,2025-06-11,Dry Rations,27.4,Very Satisfied,21.5,2.3
+HH0394,Kakuma 1,5.0,2025-06-05,Cash Transfer,43.5,,34.5,2.8
+HH0395,Kalobeyei,2.0,2025-06-29,E-Voucher,50.3,Neutral,35.3,3.2
+HH0396,,8.0,2025-06-01,Dry Rations,42.9,Satisfied,29.6,4.1
+HH0397,Kalobeyei,6.0,2025-06-24,Dry Rations,44.0,Very Unsatisfied,28.9,3.8
+HH0398,,8.0,2025-06-03,E-Voucher,46.6,Very Unsatisfied,36.9,3.7
+HH0399,Kakuma 4,5.0,2025-07-01,,43.8,Very Unsatisfied,27.5,3.6
+HH0400,Kakuma 2,2.0,2025-06-22,Dry Rations,56.1,Very Satisfied,40.2,2.9
+HH0401,Kakuma 3,6.0,2025-06-19,Cash Transfer,29.6,Unsatisfied,19.4,2.4
+HH0402,Kalobeyei,5.0,2025-06-23,Cash Transfer,42.4,Satisfied,,3.2
+HH0403,Kakuma 1,5.0,,Cash Transfer,21.8,Satisfied,14.8,1.7
+HH0404,Kalobeyei,1.0,2025-06-30,,19.3,,15.4,1.3
+HH0405,Kakuma 4,2.0,,Cash Transfer,39.2,Satisfied,24.0,2.1
+HH0406,,8.0,2025-06-12,Dry Rations,45.4,Very Unsatisfied,,2.7
+HH0407,Kakuma 1,,2025-06-15,Cash Transfer,56.3,Satisfied,,5.5
+HH0408,Kakuma 4,,2025-06-25,Dry Rations,,Unsatisfied,40.5,4.5
+HH0409,Kalobeyei,8.0,2025-06-05,Cash Transfer,53.2,Very Unsatisfied,36.6,
+HH0410,Kakuma 4,8.0,2025-06-15,E-Voucher,47.3,Satisfied,33.2,2.5
+HH0411,Kakuma 2,2.0,2025-06-08,Cash Transfer,41.6,Very Satisfied,27.1,2.2
+HH0412,Kakuma 2,8.0,2025-06-10,Cash Transfer,,Neutral,16.4,2.1
+HH0413,Kalobeyei,1.0,2025-06-26,Dry Rations,,Neutral,23.8,3.0
+HH0414,Kakuma 4,6.0,2025-06-16,,52.9,Neutral,34.9,4.0
+HH0415,Kakuma 1,8.0,2025-06-08,Cash Transfer,49.0,Very Unsatisfied,38.9,3.0
+HH0416,Kalobeyei,3.0,2025-06-01,E-Voucher,27.1,,21.4,2.4
+HH0417,Kakuma 2,8.0,2025-06-12,E-Voucher,46.1,Very Unsatisfied,30.7,2.7
+HH0418,Kakuma 2,1.0,2025-06-05,,45.3,Unsatisfied,32.4,2.7
+HH0419,Kalobeyei,9.0,2025-06-03,E-Voucher,43.5,Very Satisfied,34.0,3.2
+HH0420,Kakuma 4,9.0,2025-06-01,,39.7,Very Satisfied,23.9,2.6
+HH0421,Kakuma 2,5.0,2025-06-04,Dry Rations,46.7,Neutral,35.6,2.9
+HH0422,,,2025-06-08,Cash Transfer,47.0,,,
+HH0423,Kakuma 2,6.0,2025-06-03,Dry Rations,33.6,Neutral,20.8,2.8
+HH0424,Kakuma 2,,2025-06-10,Dry Rations,44.6,Satisfied,28.2,4.1
+HH0425,Kakuma 3,5.0,2025-06-02,Dry Rations,38.1,Unsatisfied,30.2,2.7
+HH0426,Kakuma 2,,,Dry Rations,25.1,Unsatisfied,17.8,1.3
+HH0427,Kakuma 1,3.0,2025-06-25,E-Voucher,34.4,Unsatisfied,20.7,2.2
+HH0428,Kalobeyei,7.0,2025-06-10,Cash Transfer,24.4,Unsatisfied,15.9,2.4
+HH0429,Kalobeyei,5.0,2025-06-21,Cash Transfer,49.8,Neutral,,4.0
+HH0430,Kakuma 4,,2025-06-14,Cash Transfer,43.6,Very Satisfied,32.2,3.7
+HH0431,Kakuma 2,2.0,2025-06-07,Dry Rations,36.4,Neutral,27.2,1.8
+HH0432,,4.0,2025-06-27,E-Voucher,,Unsatisfied,43.3,4.1
+HH0433,Kakuma 4,2.0,,Cash Transfer,40.7,Neutral,26.8,2.1
+HH0434,Kakuma 3,7.0,2025-06-02,E-Voucher,25.7,,18.2,2.0
+HH0435,Kakuma 4,2.0,2025-06-09,,35.6,Very Unsatisfied,25.2,3.4
+HH0436,Kakuma 4,1.0,2025-06-16,Cash Transfer,56.3,Very Satisfied,,
+HH0437,Kakuma 2,9.0,2025-06-13,E-Voucher,33.3,Very Unsatisfied,21.1,2.6
+HH0438,Kakuma 3,1.0,2025-06-09,Dry Rations,42.8,Satisfied,34.0,3.1
+HH0439,Kakuma 4,8.0,2025-06-20,E-Voucher,47.4,Neutral,,4.6
+HH0440,Kakuma 1,2.0,2025-06-04,Cash Transfer,45.9,Satisfied,32.1,3.8
+HH0441,,8.0,2025-06-22,Cash Transfer,64.5,Neutral,,3.4
+HH0442,Kalobeyei,3.0,2025-06-10,Dry Rations,28.2,Very Unsatisfied,18.2,2.1
+HH0443,Kakuma 3,6.0,2025-06-26,Dry Rations,29.2,Unsatisfied,20.7,1.8
+HH0444,Kakuma 3,3.0,,Dry Rations,28.4,Unsatisfied,21.0,2.1
+HH0445,,7.0,,E-Voucher,37.0,Neutral,26.0,2.7
+HH0446,Kakuma 4,,2025-06-12,E-Voucher,51.0,Unsatisfied,40.7,4.0
+HH0447,Kakuma 3,2.0,2025-06-17,E-Voucher,29.7,Very Unsatisfied,21.5,2.0
+HH0448,Kakuma 1,5.0,2025-06-14,Dry Rations,51.1,Unsatisfied,34.5,
+HH0449,Kakuma 1,6.0,2025-06-14,,40.4,Very Unsatisfied,30.5,3.0
+HH0450,Kakuma 2,4.0,2025-06-25,Cash Transfer,,Satisfied,18.3,2.6
+HH0451,Kakuma 3,4.0,2025-06-02,E-Voucher,22.5,Very Unsatisfied,15.2,1.9
+HH0452,Kakuma 4,4.0,2025-06-21,E-Voucher,24.7,Very Satisfied,16.5,1.7
+HH0453,,2.0,2025-06-25,Cash Transfer,33.3,,22.9,3.2
+HH0454,Kalobeyei,4.0,2025-06-20,Cash Transfer,38.3,Very Satisfied,29.0,3.7
+HH0455,Kakuma 4,1.0,2025-06-11,E-Voucher,53.5,Neutral,37.3,3.2
+HH0456,Kakuma 2,6.0,2025-06-16,E-Voucher,48.0,Neutral,36.4,2.5
+HH0457,Kalobeyei,1.0,2025-06-19,Cash Transfer,31.6,Neutral,,2.8
+HH0458,Kakuma 3,6.0,2025-07-01,Dry Rations,44.1,Very Unsatisfied,29.5,4.0
+HH0459,Kakuma 2,,2025-06-23,E-Voucher,56.5,Neutral,43.1,5.6
+HH0460,Kakuma 3,,2025-06-06,Cash Transfer,58.7,Satisfied,,5.5
+HH0461,Kakuma 1,8.0,2025-06-24,Cash Transfer,36.9,Very Satisfied,23.8,3.0
+HH0462,Kakuma 2,2.0,2025-06-19,Cash Transfer,49.6,Very Unsatisfied,34.8,3.8
+HH0463,Kalobeyei,2.0,,Cash Transfer,53.9,Very Satisfied,35.2,2.8
+HH0464,Kakuma 2,4.0,2025-06-26,Dry Rations,24.9,Neutral,,1.6
+HH0465,Kakuma 2,3.0,2025-06-04,Cash Transfer,34.9,Very Unsatisfied,25.5,2.5
+HH0466,Kakuma 2,4.0,2025-06-15,E-Voucher,62.2,Unsatisfied,43.7,5.1
+HH0467,Kakuma 2,7.0,2025-06-29,Dry Rations,37.0,Satisfied,25.5,2.9
+HH0468,Kakuma 3,1.0,2025-06-04,Cash Transfer,10.7,Neutral,8.5,0.9
+HH0469,Kakuma 1,6.0,2025-06-20,Dry Rations,38.8,Neutral,27.7,2.5
+HH0470,Kakuma 4,3.0,2025-06-10,E-Voucher,51.2,Satisfied,39.6,4.0
+HH0471,Kakuma 2,7.0,2025-06-24,Cash Transfer,40.1,Satisfied,25.2,2.2
+HH0472,Kalobeyei,2.0,2025-06-22,E-Voucher,47.2,Unsatisfied,33.7,3.3
+HH0473,Kakuma 2,2.0,2025-06-03,,49.4,Neutral,38.2,4.3
+HH0474,Kalobeyei,4.0,2025-06-26,Cash Transfer,36.5,Neutral,26.2,3.1
+HH0475,Kakuma 3,1.0,2025-06-05,Cash Transfer,34.8,Very Satisfied,25.9,3.5
+HH0476,Kalobeyei,3.0,2025-06-06,Cash Transfer,41.5,Very Unsatisfied,28.0,2.7
+HH0477,Kakuma 4,9.0,2025-06-21,Cash Transfer,41.8,Very Unsatisfied,25.9,3.1
+HH0478,Kakuma 1,7.0,2025-06-22,Dry Rations,,Very Satisfied,,2.7
+HH0479,Kalobeyei,7.0,2025-06-08,Cash Transfer,41.0,Very Unsatisfied,27.8,3.0
+HH0480,Kalobeyei,4.0,2025-06-07,Cash Transfer,32.5,Satisfied,25.1,3.0
+HH0481,Kakuma 1,2.0,2025-06-21,Dry Rations,47.5,Very Unsatisfied,,4.0
+HH0482,Kakuma 4,4.0,2025-06-10,,46.0,Very Unsatisfied,36.5,4.3
+HH0483,Kakuma 2,6.0,2025-06-06,Dry Rations,26.6,,21.1,1.6
+HH0484,Kalobeyei,3.0,2025-06-14,Dry Rations,36.1,Unsatisfied,23.4,3.4
+HH0485,Kakuma 1,1.0,2025-06-04,Dry Rations,40.9,Very Unsatisfied,27.4,2.2
+HH0486,Kakuma 3,8.0,2025-06-28,Dry Rations,34.7,Very Unsatisfied,27.0,3.3
+HH0487,Kakuma 1,5.0,2025-06-25,Cash Transfer,46.4,Unsatisfied,36.8,3.1
+HH0488,Kakuma 3,5.0,2025-06-13,Cash Transfer,39.3,Very Satisfied,27.1,2.6
+HH0489,Kakuma 4,4.0,2025-06-20,E-Voucher,41.7,Unsatisfied,27.7,3.2
+HH0490,Kakuma 2,6.0,2025-06-17,Cash Transfer,36.0,Very Satisfied,25.4,3.5
+HH0491,Kakuma 1,3.0,2025-06-23,Cash Transfer,20.1,Satisfied,14.8,1.1
+HH0492,Kalobeyei,9.0,2025-06-07,Dry Rations,19.5,Very Satisfied,12.8,1.3
+HH0493,Kakuma 4,5.0,2025-06-04,Dry Rations,45.9,Satisfied,34.3,4.3
+HH0494,Kakuma 1,3.0,2025-06-29,Cash Transfer,42.7,Satisfied,26.1,3.0
+HH0495,Kalobeyei,1.0,2025-06-14,E-Voucher,44.4,Very Satisfied,,2.7
+HH0496,Kakuma 1,6.0,2025-06-03,Dry Rations,41.3,Neutral,28.0,2.9
+HH0497,Kakuma 3,2.0,2025-06-24,Cash Transfer,42.1,Very Satisfied,28.2,2.9
+HH0498,,3.0,2025-06-05,Cash Transfer,49.7,Very Unsatisfied,33.0,4.8
+HH0499,,1.0,,E-Voucher,44.4,Very Unsatisfied,31.0,3.9
+HH0500,Kakuma 1,9.0,2025-06-26,,,Neutral,33.5,3.8
+HH0501,Kakuma 4,8.0,2025-06-23,Dry Rations,41.7,,26.6,4.1
+HH0502,Kakuma 1,2.0,2025-06-20,E-Voucher,37.0,Neutral,24.5,2.7
+HH0503,Kalobeyei,8.0,2025-06-04,Cash Transfer,41.9,Very Unsatisfied,33.3,2.2
+HH0504,Kakuma 3,9.0,2025-06-24,Cash Transfer,31.6,Neutral,21.6,2.0
+HH0505,,1.0,2025-06-30,E-Voucher,36.2,Very Satisfied,,2.6
+HH0506,Kakuma 1,5.0,2025-06-24,E-Voucher,41.8,Neutral,29.9,2.4
+HH0507,Kakuma 4,8.0,2025-06-02,E-Voucher,41.6,Satisfied,33.1,4.1
+HH0508,Kakuma 4,2.0,2025-06-30,E-Voucher,38.9,Very Satisfied,25.2,3.4
+HH0509,Kalobeyei,4.0,2025-06-18,Dry Rations,26.1,Unsatisfied,19.2,1.7
+HH0510,Kakuma 1,7.0,2025-06-19,E-Voucher,46.4,Very Unsatisfied,,3.7
+HH0511,Kakuma 3,3.0,2025-07-01,Dry Rations,48.3,Very Unsatisfied,34.8,4.2
+HH0512,Kakuma 4,5.0,,Cash Transfer,56.4,Neutral,34.8,
+HH0513,Kakuma 1,8.0,2025-06-28,E-Voucher,44.4,Very Satisfied,32.7,4.2
+HH0514,Kakuma 4,,2025-06-19,Dry Rations,40.0,Unsatisfied,24.5,3.0
+HH0515,Kakuma 4,4.0,2025-06-17,E-Voucher,29.9,Very Satisfied,21.5,2.7
+HH0516,Kakuma 3,9.0,2025-07-01,Cash Transfer,54.9,Very Unsatisfied,41.1,4.3
+HH0517,Kakuma 2,7.0,,Cash Transfer,42.5,Very Satisfied,27.3,3.3
+HH0518,Kalobeyei,1.0,,Cash Transfer,,,32.2,2.3
+HH0519,Kalobeyei,4.0,2025-06-22,E-Voucher,,Neutral,22.7,2.1
+HH0520,Kakuma 3,4.0,2025-06-24,,36.8,Satisfied,28.3,
+HH0521,Kakuma 4,9.0,2025-06-13,Dry Rations,46.9,Very Satisfied,,3.0
+HH0522,Kakuma 1,6.0,2025-06-12,Cash Transfer,,Satisfied,19.2,1.5
+HH0523,,9.0,2025-06-30,E-Voucher,56.3,Very Unsatisfied,35.3,4.8
+HH0524,,,2025-06-26,Cash Transfer,54.1,Neutral,,2.8
+HH0525,,6.0,2025-06-06,Cash Transfer,36.5,Neutral,,2.9
+HH0526,Kakuma 4,5.0,2025-06-21,Dry Rations,31.4,Very Satisfied,20.1,2.4
+HH0527,Kalobeyei,5.0,2025-07-01,Dry Rations,,Neutral,13.3,1.9
+HH0528,Kakuma 1,2.0,2025-06-04,Dry Rations,27.5,Very Satisfied,19.9,2.0
+HH0529,Kalobeyei,8.0,2025-06-19,Dry Rations,47.3,Very Satisfied,33.5,2.5
+HH0530,,8.0,2025-06-16,Cash Transfer,43.2,Satisfied,27.0,3.4
+HH0531,Kakuma 2,1.0,2025-06-13,Dry Rations,44.9,Neutral,29.5,4.1
+HH0532,Kakuma 2,8.0,,Dry Rations,21.5,Very Satisfied,13.9,2.1
+HH0533,Kakuma 2,5.0,2025-06-30,Dry Rations,,Satisfied,23.1,2.6
+HH0534,Kalobeyei,,2025-06-23,Dry Rations,53.7,Unsatisfied,36.6,3.5
+HH0535,Kakuma 3,2.0,2025-06-17,Cash Transfer,39.0,Satisfied,28.9,3.7
+HH0536,Kalobeyei,6.0,2025-06-23,Dry Rations,27.3,,17.6,1.6
+HH0537,Kakuma 3,9.0,2025-06-01,Cash Transfer,38.9,Very Satisfied,,3.1
+HH0538,Kakuma 3,1.0,2025-06-18,E-Voucher,32.3,Very Unsatisfied,21.9,2.3
+HH0539,Kakuma 2,6.0,2025-07-01,Cash Transfer,43.3,Very Unsatisfied,34.4,
+HH0540,Kakuma 4,9.0,2025-06-20,Cash Transfer,40.2,Very Unsatisfied,31.8,2.7
+HH0541,,8.0,2025-06-17,Dry Rations,45.4,Satisfied,34.5,2.9
+HH0542,,6.0,2025-06-27,E-Voucher,27.8,Very Satisfied,18.0,2.3
+HH0543,Kakuma 2,3.0,,E-Voucher,35.5,Neutral,21.8,3.5
+HH0544,Kakuma 4,,2025-06-27,E-Voucher,50.9,Satisfied,,3.2
+HH0545,Kakuma 1,9.0,2025-06-15,E-Voucher,26.5,Satisfied,,2.4
+HH0546,Kalobeyei,1.0,2025-06-11,Cash Transfer,30.0,Very Satisfied,21.0,
+HH0547,,9.0,2025-06-25,E-Voucher,42.0,Unsatisfied,31.7,3.2
+HH0548,Kakuma 2,,2025-06-28,Cash Transfer,42.9,Satisfied,,2.3
+HH0549,Kakuma 1,6.0,2025-06-22,Cash Transfer,35.1,,27.0,3.4
+HH0550,Kakuma 2,4.0,2025-06-13,Cash Transfer,37.2,Unsatisfied,,3.3
+HH0551,Kakuma 3,1.0,2025-06-01,E-Voucher,45.3,Very Unsatisfied,33.4,3.8
+HH0552,Kakuma 2,8.0,2025-06-17,Dry Rations,48.5,Very Satisfied,32.1,4.4
+HH0553,Kakuma 2,2.0,2025-06-06,Dry Rations,29.3,Unsatisfied,,
+HH0554,Kalobeyei,1.0,2025-06-04,E-Voucher,43.6,Very Satisfied,32.3,4.3
+HH0555,Kalobeyei,2.0,2025-06-20,Dry Rations,55.1,Very Unsatisfied,33.2,4.7
+HH0556,,1.0,2025-06-16,,38.8,Very Satisfied,26.5,3.7
+HH0557,,1.0,2025-06-15,Cash Transfer,29.2,Satisfied,,2.2
+HH0558,Kalobeyei,9.0,2025-06-27,Cash Transfer,28.7,Unsatisfied,21.2,1.6
+HH0559,Kakuma 1,1.0,2025-06-15,E-Voucher,38.4,Very Satisfied,28.9,2.9
+HH0560,Kakuma 4,4.0,2025-06-06,E-Voucher,50.4,,33.3,2.8
+HH0561,Kakuma 1,6.0,2025-06-15,,39.6,Very Satisfied,30.2,3.2
+HH0562,Kakuma 1,7.0,2025-06-14,,41.9,Unsatisfied,27.6,
+HH0563,Kalobeyei,,2025-06-28,E-Voucher,30.0,Very Unsatisfied,20.7,2.4
+HH0564,Kakuma 4,6.0,,E-Voucher,,Very Unsatisfied,37.1,2.5
+HH0565,,,2025-06-07,E-Voucher,,Unsatisfied,21.0,1.7
+HH0566,,2.0,2025-06-09,E-Voucher,35.0,Satisfied,27.9,2.6
+HH0567,Kakuma 3,2.0,2025-06-26,E-Voucher,,Satisfied,29.9,4.5
+HH0568,Kalobeyei,7.0,2025-06-16,E-Voucher,19.6,Very Unsatisfied,14.4,1.4
+HH0569,Kakuma 4,1.0,2025-06-05,Dry Rations,41.7,Very Unsatisfied,,3.0
+HH0570,Kakuma 3,8.0,2025-06-25,Cash Transfer,,Unsatisfied,23.2,2.5
+HH0571,,3.0,2025-06-20,Cash Transfer,40.2,Satisfied,,
+HH0572,Kakuma 2,6.0,2025-06-29,E-Voucher,,Very Unsatisfied,27.4,2.4
+HH0573,Kakuma 3,9.0,2025-06-10,Cash Transfer,61.1,Satisfied,43.6,4.3
+HH0574,Kakuma 3,6.0,2025-06-18,Cash Transfer,36.1,Very Unsatisfied,23.6,2.2
+HH0575,Kalobeyei,9.0,2025-06-03,Cash Transfer,58.4,Very Satisfied,40.6,5.7
+HH0576,Kalobeyei,7.0,2025-06-13,E-Voucher,45.9,Neutral,,2.6
+HH0577,Kakuma 2,9.0,2025-06-11,E-Voucher,32.0,Very Satisfied,22.9,2.2
+HH0578,Kakuma 4,2.0,2025-06-17,Cash Transfer,43.3,Very Unsatisfied,33.7,2.2
+HH0579,Kakuma 2,8.0,2025-06-30,Cash Transfer,37.0,Neutral,26.4,2.3
+HH0580,Kakuma 4,8.0,2025-06-30,E-Voucher,42.4,Neutral,30.8,3.8
+HH0581,Kakuma 4,2.0,2025-06-22,Dry Rations,32.9,Very Unsatisfied,23.2,2.0
+HH0582,Kalobeyei,,2025-06-13,Cash Transfer,56.9,Very Unsatisfied,34.7,3.1
+HH0583,Kakuma 1,7.0,2025-06-06,Dry Rations,,Satisfied,31.9,3.6
+HH0584,Kakuma 1,,2025-06-17,Cash Transfer,40.3,Very Unsatisfied,28.1,
+HH0585,Kakuma 3,4.0,2025-06-27,Dry Rations,57.3,Unsatisfied,37.9,3.1
+HH0586,Kalobeyei,6.0,2025-06-13,Dry Rations,,Very Unsatisfied,25.9,3.7
+HH0587,Kakuma 4,6.0,2025-06-19,,,,35.7,4.5
+HH0588,Kakuma 1,3.0,2025-06-21,E-Voucher,40.4,Very Unsatisfied,26.8,3.9
+HH0589,Kakuma 4,,2025-06-19,Dry Rations,43.9,,28.6,4.1
+HH0590,Kakuma 1,2.0,2025-06-10,Dry Rations,39.2,Unsatisfied,27.2,
+HH0591,Kakuma 1,6.0,2025-06-03,Dry Rations,41.0,Very Satisfied,25.7,2.2
+HH0592,Kakuma 1,7.0,2025-06-14,Cash Transfer,41.7,,32.8,
+HH0593,Kalobeyei,,,,33.3,Satisfied,25.8,3.1
+HH0594,Kakuma 2,3.0,2025-06-19,,36.0,,26.7,3.2
+HH0595,Kakuma 4,3.0,2025-06-05,Dry Rations,,Very Unsatisfied,23.5,2.9
+HH0596,Kalobeyei,7.0,2025-06-29,Dry Rations,42.3,Very Unsatisfied,31.9,2.6
+HH0597,Kalobeyei,4.0,,E-Voucher,39.7,Satisfied,30.2,3.7
+HH0598,Kalobeyei,8.0,2025-06-20,Cash Transfer,51.7,Neutral,39.0,4.5
+HH0599,,7.0,2025-06-17,Dry Rations,48.5,Very Unsatisfied,30.2,4.8
+HH0600,Kalobeyei,,2025-06-21,Cash Transfer,38.0,Very Satisfied,27.7,2.2
+HH0601,Kakuma 3,7.0,,Cash Transfer,,,41.3,
+HH0602,Kakuma 4,3.0,2025-06-05,E-Voucher,58.7,Unsatisfied,42.0,3.6
+HH0603,Kalobeyei,2.0,2025-06-04,E-Voucher,19.6,Unsatisfied,14.3,1.8
+HH0604,Kakuma 4,6.0,2025-06-06,E-Voucher,49.3,Very Satisfied,34.1,2.9
+HH0605,Kakuma 3,,2025-06-26,E-Voucher,33.1,Very Unsatisfied,23.4,1.8
+HH0606,Kakuma 3,3.0,2025-06-04,E-Voucher,48.0,Satisfied,29.1,4.8
+HH0607,Kakuma 4,6.0,2025-06-30,E-Voucher,52.4,Very Satisfied,38.1,2.7
+HH0608,,5.0,2025-06-07,E-Voucher,31.2,Very Unsatisfied,19.2,2.9
+HH0609,Kakuma 2,8.0,2025-06-07,E-Voucher,21.5,Satisfied,14.8,
+HH0610,Kakuma 1,9.0,2025-06-18,Dry Rations,48.4,Unsatisfied,31.9,4.5
+HH0611,,3.0,2025-06-03,Cash Transfer,41.4,Satisfied,29.4,3.2
+HH0612,Kakuma 1,3.0,2025-06-01,E-Voucher,23.3,,,2.2
+HH0613,Kalobeyei,3.0,,E-Voucher,65.3,Satisfied,48.2,6.3
+HH0614,Kakuma 3,6.0,2025-06-25,Cash Transfer,46.2,Neutral,35.1,2.3
+HH0615,Kakuma 1,1.0,2025-06-04,Dry Rations,,Satisfied,29.5,2.5
+HH0616,Kakuma 3,7.0,2025-06-06,Cash Transfer,53.7,Neutral,33.3,3.4
+HH0617,Kakuma 4,1.0,2025-06-09,Cash Transfer,34.2,Unsatisfied,21.5,2.9
+HH0618,Kakuma 2,5.0,2025-06-22,,41.3,,32.0,3.9
+HH0619,Kakuma 4,8.0,2025-06-14,Cash Transfer,26.8,Neutral,18.9,2.0
+HH0620,Kakuma 4,4.0,2025-06-28,Cash Transfer,33.9,Neutral,23.5,2.7
+HH0621,Kalobeyei,5.0,2025-06-12,E-Voucher,43.9,Unsatisfied,27.3,2.6
+HH0622,Kakuma 2,4.0,2025-06-28,E-Voucher,23.3,Neutral,17.0,2.1
+HH0623,Kakuma 4,4.0,2025-06-25,E-Voucher,33.6,Very Satisfied,26.0,3.3
+HH0624,Kakuma 4,8.0,2025-07-01,E-Voucher,30.7,Unsatisfied,,1.9
+HH0625,Kakuma 2,2.0,2025-06-20,Cash Transfer,41.4,Very Satisfied,30.0,3.1
+HH0626,Kakuma 2,1.0,2025-06-24,Cash Transfer,45.7,Unsatisfied,28.1,2.5
+HH0627,Kakuma 4,3.0,2025-06-25,Dry Rations,47.4,Neutral,29.5,3.7
+HH0628,Kakuma 2,9.0,2025-06-04,Dry Rations,50.0,Very Satisfied,30.5,3.8
+HH0629,Kakuma 4,,2025-06-21,Cash Transfer,53.7,Neutral,35.0,3.1
+HH0630,Kakuma 4,5.0,2025-06-30,Dry Rations,46.1,Unsatisfied,28.9,3.3
+HH0631,Kalobeyei,2.0,2025-06-24,Cash Transfer,58.9,Neutral,38.4,
+HH0632,,4.0,2025-06-12,,41.2,Very Satisfied,,
+HH0633,Kakuma 4,2.0,2025-06-10,E-Voucher,38.3,Very Satisfied,30.2,3.0
+HH0634,,,2025-06-30,,46.1,Neutral,33.3,2.3
+HH0635,Kakuma 1,,2025-06-22,E-Voucher,,Satisfied,,3.3
+HH0636,Kakuma 1,6.0,,E-Voucher,58.5,Unsatisfied,43.4,5.0
+HH0637,Kakuma 1,,2025-06-07,E-Voucher,51.3,Unsatisfied,31.9,3.5
+HH0638,Kalobeyei,3.0,2025-06-03,E-Voucher,,Neutral,35.5,2.5
+HH0639,Kakuma 4,3.0,2025-06-23,Dry Rations,41.3,Satisfied,27.1,3.6
+HH0640,Kalobeyei,6.0,2025-06-28,Cash Transfer,35.9,Very Satisfied,26.1,3.5
+HH0641,Kakuma 4,3.0,2025-06-14,E-Voucher,47.0,Very Unsatisfied,31.4,2.9
+HH0642,Kalobeyei,2.0,,Dry Rations,28.7,Very Unsatisfied,,1.9
+HH0643,Kalobeyei,8.0,2025-06-10,E-Voucher,55.3,Neutral,36.1,3.3
+HH0644,Kakuma 3,,2025-06-16,Dry Rations,38.2,Satisfied,,3.0
+HH0645,Kalobeyei,1.0,2025-06-16,,43.1,Satisfied,33.9,2.5
+HH0646,Kakuma 2,,2025-06-22,Dry Rations,30.9,Unsatisfied,18.7,2.1
+HH0647,,8.0,2025-07-01,Cash Transfer,47.2,,34.9,4.0
+HH0648,Kalobeyei,4.0,2025-06-10,Dry Rations,35.5,Satisfied,26.4,2.8
+HH0649,Kakuma 1,7.0,2025-06-25,Dry Rations,46.5,Very Unsatisfied,35.7,3.2
+HH0650,Kakuma 2,2.0,,Cash Transfer,47.6,Very Satisfied,37.8,3.4
+HH0651,Kakuma 2,7.0,2025-06-06,Cash Transfer,33.5,Very Satisfied,,
+HH0652,Kakuma 2,5.0,2025-06-12,Dry Rations,28.8,Neutral,17.7,1.4
+HH0653,Kakuma 3,5.0,2025-06-09,Cash Transfer,55.3,Satisfied,42.3,3.0
+HH0654,Kalobeyei,6.0,2025-06-13,E-Voucher,38.1,Neutral,27.8,
+HH0655,Kalobeyei,9.0,2025-06-04,E-Voucher,,Satisfied,30.8,2.3
+HH0656,Kakuma 1,6.0,2025-06-24,Cash Transfer,44.9,Unsatisfied,28.1,3.8
+HH0657,,8.0,2025-06-11,Cash Transfer,27.5,Neutral,20.1,2.6
+HH0658,Kakuma 2,7.0,2025-06-20,Dry Rations,,Neutral,35.5,
+HH0659,Kakuma 1,9.0,2025-06-18,Cash Transfer,41.0,Very Unsatisfied,,2.8
+HH0660,Kakuma 3,4.0,2025-06-26,Dry Rations,33.6,Neutral,,2.6
+HH0661,Kalobeyei,2.0,2025-06-11,E-Voucher,28.4,Satisfied,17.3,2.7
+HH0662,Kakuma 2,7.0,,Cash Transfer,46.1,Very Unsatisfied,31.0,4.5
+HH0663,Kakuma 1,6.0,2025-06-21,Dry Rations,,Neutral,39.3,4.5
+HH0664,Kakuma 3,1.0,2025-06-04,Dry Rations,41.8,Neutral,30.9,2.3
+HH0665,Kakuma 3,9.0,2025-06-18,E-Voucher,25.7,Unsatisfied,17.8,2.1
+HH0666,,9.0,2025-06-01,Cash Transfer,29.4,Neutral,18.0,2.1
+HH0667,Kalobeyei,2.0,2025-06-27,E-Voucher,35.7,Very Satisfied,,2.6
+HH0668,Kakuma 1,3.0,2025-06-07,,55.6,Very Unsatisfied,,2.9
+HH0669,Kakuma 2,5.0,2025-06-06,Dry Rations,37.5,Very Satisfied,29.5,2.2
+HH0670,Kakuma 1,,2025-07-01,Cash Transfer,35.3,,25.7,3.2
+HH0671,Kakuma 3,1.0,,Dry Rations,23.3,Unsatisfied,15.4,1.7
+HH0672,Kakuma 1,8.0,2025-06-18,Cash Transfer,33.4,Neutral,23.5,2.2
+HH0673,Kalobeyei,8.0,2025-06-24,E-Voucher,27.7,Neutral,17.0,1.9
+HH0674,Kakuma 4,4.0,2025-06-11,Cash Transfer,30.0,Neutral,23.8,
+HH0675,,7.0,2025-06-20,Cash Transfer,41.2,Very Unsatisfied,27.7,3.6
+HH0676,,3.0,2025-06-24,Dry Rations,36.0,Neutral,25.0,2.3
+HH0677,Kalobeyei,6.0,,Dry Rations,57.0,Very Satisfied,38.3,3.2
+HH0678,Kakuma 3,,2025-06-16,Cash Transfer,50.8,,37.4,3.2
+HH0679,Kalobeyei,,2025-06-07,Dry Rations,33.9,,,3.3
+HH0680,Kalobeyei,5.0,2025-06-21,Dry Rations,30.8,Very Satisfied,,2.4
+HH0681,,,2025-06-10,Dry Rations,53.8,Neutral,35.2,
+HH0682,,,2025-06-26,Cash Transfer,56.6,Neutral,37.5,
+HH0683,Kakuma 2,1.0,2025-06-12,Dry Rations,18.1,Satisfied,11.3,1.2
+HH0684,Kakuma 2,9.0,,Cash Transfer,40.9,Very Unsatisfied,29.9,3.7
+HH0685,Kakuma 3,6.0,2025-06-14,Dry Rations,37.5,Very Satisfied,22.8,2.9
+HH0686,Kakuma 1,4.0,2025-06-25,E-Voucher,46.5,Satisfied,33.5,2.6
+HH0687,Kalobeyei,9.0,2025-06-05,,,Unsatisfied,46.0,3.4
+HH0688,Kakuma 1,5.0,2025-06-26,Dry Rations,,Very Unsatisfied,,2.7
+HH0689,Kakuma 1,5.0,2025-06-21,,19.4,,13.4,1.9
+HH0690,Kakuma 3,5.0,2025-06-18,Cash Transfer,,Neutral,31.7,3.0
+HH0691,Kalobeyei,1.0,,,53.9,,33.2,5.0
+HH0692,Kalobeyei,1.0,,E-Voucher,37.0,,27.2,3.3
+HH0693,Kakuma 4,8.0,2025-06-23,Dry Rations,32.9,Very Unsatisfied,25.1,2.1
+HH0694,Kakuma 1,8.0,2025-06-26,Dry Rations,35.6,Neutral,23.1,
+HH0695,,6.0,2025-06-05,E-Voucher,48.5,,33.2,2.7
+HH0696,,4.0,2025-06-24,Cash Transfer,35.5,Neutral,27.3,3.1
+HH0697,Kakuma 4,2.0,2025-06-17,Dry Rations,43.3,Unsatisfied,33.6,2.6
+HH0698,Kakuma 2,2.0,2025-06-19,Cash Transfer,40.3,,26.1,2.8
+HH0699,Kakuma 2,9.0,2025-06-19,Cash Transfer,39.2,Very Unsatisfied,27.8,2.9
+HH0700,Kakuma 2,5.0,2025-06-25,E-Voucher,47.0,Very Satisfied,30.0,4.1
+HH0701,Kakuma 3,4.0,2025-06-21,E-Voucher,35.2,Unsatisfied,21.8,2.0
+HH0702,Kakuma 3,1.0,2025-06-12,Cash Transfer,,,27.9,2.5
+HH0703,Kakuma 2,7.0,2025-06-25,Dry Rations,48.0,Satisfied,36.7,3.6
+HH0704,Kakuma 4,3.0,2025-06-29,Cash Transfer,30.1,,22.6,2.3
+HH0705,Kakuma 1,6.0,,Dry Rations,31.2,Satisfied,19.0,2.8
+HH0706,,5.0,,Dry Rations,27.4,Neutral,21.1,1.6
+HH0707,Kalobeyei,,2025-06-18,E-Voucher,48.5,Satisfied,33.3,4.4
+HH0708,Kakuma 3,5.0,2025-06-21,Dry Rations,38.9,Unsatisfied,26.0,3.3
+HH0709,Kakuma 1,1.0,2025-06-04,Dry Rations,26.9,Neutral,19.1,2.1
+HH0710,Kakuma 1,1.0,2025-07-01,Cash Transfer,48.5,Very Unsatisfied,30.0,
+HH0711,,3.0,,E-Voucher,34.4,,25.8,2.4
+HH0712,Kalobeyei,,2025-06-25,Dry Rations,31.3,,22.4,
+HH0713,Kakuma 2,5.0,2025-06-07,Dry Rations,,Very Unsatisfied,24.2,3.2
+HH0714,Kakuma 3,2.0,2025-06-22,E-Voucher,54.8,Unsatisfied,34.9,
+HH0715,Kakuma 3,8.0,2025-06-23,Cash Transfer,36.1,Very Satisfied,23.0,3.0
+HH0716,Kakuma 4,2.0,2025-06-01,E-Voucher,45.8,Very Unsatisfied,28.0,3.1
+HH0717,Kakuma 2,9.0,2025-06-17,E-Voucher,47.3,Very Satisfied,33.9,4.5
+HH0718,Kakuma 2,2.0,2025-06-24,Dry Rations,,,34.1,3.5
+HH0719,Kakuma 2,9.0,2025-06-29,Dry Rations,52.7,Unsatisfied,31.8,2.9
+HH0720,Kakuma 2,7.0,,,32.9,Very Satisfied,20.1,2.4
+HH0721,Kakuma 3,8.0,,Dry Rations,29.6,Very Unsatisfied,21.2,2.6
+HH0722,Kakuma 3,2.0,2025-06-28,Dry Rations,29.4,Satisfied,22.5,2.6
+HH0723,Kakuma 2,7.0,2025-06-26,E-Voucher,38.6,Satisfied,25.7,
+HH0724,,6.0,2025-06-11,Dry Rations,30.5,Very Unsatisfied,,2.9
+HH0725,Kakuma 1,4.0,2025-06-09,Cash Transfer,41.5,Very Unsatisfied,29.8,2.6
+HH0726,Kakuma 1,,2025-06-07,E-Voucher,40.8,Very Satisfied,26.7,2.9
+HH0727,Kakuma 4,4.0,2025-06-22,Cash Transfer,50.2,Neutral,30.4,4.8
+HH0728,Kakuma 2,2.0,2025-06-17,E-Voucher,42.9,Satisfied,32.0,4.1
+HH0729,Kakuma 3,,2025-06-17,,35.8,Very Satisfied,26.0,3.0
+HH0730,Kakuma 1,8.0,2025-06-02,E-Voucher,44.1,Very Unsatisfied,31.6,4.1
+HH0731,Kalobeyei,,2025-06-06,E-Voucher,29.7,Very Satisfied,22.2,1.6
+HH0732,Kalobeyei,5.0,2025-06-14,Dry Rations,39.6,Very Unsatisfied,29.1,3.7
+HH0733,Kakuma 4,1.0,2025-06-06,,43.2,Unsatisfied,27.7,2.9
+HH0734,Kakuma 2,7.0,2025-06-02,Cash Transfer,41.3,Very Unsatisfied,,2.4
+HH0735,Kakuma 1,8.0,2025-06-01,Cash Transfer,44.2,,27.6,2.7
+HH0736,Kakuma 2,6.0,2025-06-10,Dry Rations,33.6,,21.0,2.4
+HH0737,Kakuma 1,5.0,2025-06-21,Dry Rations,51.5,Neutral,37.9,
+HH0738,Kakuma 4,6.0,2025-06-05,Dry Rations,58.2,Very Unsatisfied,44.9,3.8
+HH0739,Kakuma 4,2.0,2025-06-02,E-Voucher,24.0,Satisfied,19.0,1.4
+HH0740,Kalobeyei,1.0,2025-06-22,E-Voucher,27.8,Satisfied,20.2,
+HH0741,Kakuma 2,7.0,2025-06-16,E-Voucher,40.4,Very Satisfied,25.7,3.2
+HH0742,Kalobeyei,7.0,2025-06-25,,37.4,Neutral,23.2,
+HH0743,Kakuma 2,2.0,2025-06-02,Cash Transfer,59.0,Very Satisfied,45.0,4.0
+HH0744,Kalobeyei,2.0,2025-06-10,Dry Rations,42.2,Satisfied,30.2,3.7
+HH0745,Kakuma 3,1.0,2025-06-02,E-Voucher,,Satisfied,39.0,5.1
+HH0746,Kakuma 3,8.0,2025-06-16,E-Voucher,19.5,Unsatisfied,,1.7
+HH0747,Kakuma 3,8.0,2025-06-16,Dry Rations,48.1,Very Unsatisfied,35.6,3.2
+HH0748,,1.0,2025-06-19,Dry Rations,32.8,Satisfied,25.2,2.9
+HH0749,,8.0,2025-06-29,E-Voucher,32.7,Very Satisfied,20.0,1.9
+HH0750,Kakuma 3,9.0,2025-06-07,E-Voucher,37.5,Very Satisfied,,2.1
+HH0751,Kakuma 4,4.0,2025-06-22,E-Voucher,25.8,Very Unsatisfied,19.9,1.7
+HH0752,Kakuma 4,1.0,2025-06-12,Dry Rations,44.4,Very Unsatisfied,29.2,4.0
+HH0753,,1.0,2025-06-24,E-Voucher,41.9,Unsatisfied,30.5,2.6
+HH0754,Kakuma 3,3.0,2025-06-15,E-Voucher,42.7,Neutral,28.3,2.3
+HH0755,Kakuma 3,5.0,2025-06-08,Cash Transfer,,Very Satisfied,,2.8
+HH0756,Kakuma 3,,2025-06-06,,55.1,Very Unsatisfied,33.4,5.1
+HH0757,Kalobeyei,9.0,2025-06-28,Cash Transfer,36.4,Very Satisfied,26.1,
+HH0758,Kakuma 2,,2025-06-27,Cash Transfer,44.8,Very Unsatisfied,28.4,2.8
+HH0759,Kalobeyei,2.0,2025-06-10,E-Voucher,42.9,Satisfied,31.9,3.3
+HH0760,Kakuma 2,,2025-06-03,Dry Rations,43.8,Very Satisfied,27.8,3.3
+HH0761,Kakuma 3,9.0,2025-06-19,E-Voucher,43.9,Satisfied,28.4,3.6
+HH0762,Kakuma 3,,2025-07-01,,55.9,Very Satisfied,39.1,3.4
+HH0763,Kalobeyei,9.0,2025-06-17,,35.4,,27.7,
+HH0764,Kalobeyei,9.0,2025-06-07,Dry Rations,24.7,Unsatisfied,15.9,
+HH0765,,9.0,2025-06-21,E-Voucher,33.0,Satisfied,20.8,2.8
+HH0766,Kakuma 4,5.0,,E-Voucher,47.6,Very Unsatisfied,35.8,2.4
+HH0767,Kakuma 2,,2025-06-26,E-Voucher,40.2,,28.1,2.8
+HH0768,Kalobeyei,4.0,2025-07-01,Dry Rations,35.3,Very Satisfied,27.6,2.4
+HH0769,Kalobeyei,2.0,2025-06-04,Cash Transfer,29.2,Satisfied,18.4,2.3
+HH0770,,6.0,2025-06-14,Cash Transfer,,Very Satisfied,30.8,2.3
+HH0771,Kalobeyei,4.0,2025-06-20,Dry Rations,,Very Satisfied,30.0,4.2
+HH0772,Kakuma 1,6.0,2025-06-22,E-Voucher,43.1,Very Satisfied,27.2,2.6
+HH0773,Kakuma 4,3.0,2025-06-15,Cash Transfer,37.5,Unsatisfied,27.6,3.1
+HH0774,Kakuma 2,6.0,2025-06-24,E-Voucher,41.5,Unsatisfied,29.8,3.7
+HH0775,,2.0,2025-06-08,Dry Rations,41.4,Very Unsatisfied,31.1,
+HH0776,Kakuma 1,2.0,2025-06-21,E-Voucher,41.9,Satisfied,27.7,3.6
+HH0777,Kakuma 2,9.0,2025-06-15,Cash Transfer,28.2,,19.4,
+HH0778,Kalobeyei,7.0,2025-06-22,Cash Transfer,42.0,Neutral,28.6,2.8
+HH0779,Kakuma 3,3.0,,E-Voucher,,Neutral,28.4,3.2
+HH0780,,1.0,2025-06-28,Dry Rations,50.4,,33.2,3.3
+HH0781,Kakuma 2,8.0,2025-06-14,E-Voucher,41.3,,27.2,3.2
+HH0782,Kakuma 1,6.0,2025-06-27,Dry Rations,48.4,Satisfied,32.5,4.2
+HH0783,Kakuma 1,7.0,2025-06-29,,37.0,Very Satisfied,26.4,2.6
+HH0784,Kakuma 3,9.0,2025-06-09,Cash Transfer,37.3,,,2.4
+HH0785,,5.0,2025-06-08,Dry Rations,54.9,,43.0,4.0
+HH0786,Kakuma 1,1.0,2025-06-26,Dry Rations,44.4,Satisfied,29.0,4.0
+HH0787,Kakuma 2,7.0,2025-06-28,Dry Rations,,Satisfied,25.6,3.2
+HH0788,Kakuma 4,5.0,2025-06-26,Cash Transfer,,,30.4,
+HH0789,Kakuma 1,3.0,2025-06-17,E-Voucher,34.7,Very Satisfied,25.4,2.9
+HH0790,Kakuma 1,9.0,2025-07-01,Cash Transfer,42.3,Very Unsatisfied,33.1,4.0
+HH0791,Kakuma 3,1.0,2025-06-02,Dry Rations,58.4,,37.0,3.2
+HH0792,Kalobeyei,,2025-06-25,,25.7,Very Unsatisfied,,1.6
+HH0793,Kakuma 4,1.0,2025-06-24,Cash Transfer,38.2,Very Satisfied,26.4,3.3
+HH0794,Kakuma 2,3.0,2025-06-30,Dry Rations,44.1,Very Unsatisfied,34.8,4.0
+HH0795,Kakuma 4,6.0,2025-06-03,Dry Rations,47.6,Neutral,35.0,
+HH0796,Kakuma 2,3.0,2025-06-08,Cash Transfer,27.6,Very Unsatisfied,18.2,
+HH0797,,8.0,,Cash Transfer,24.6,Satisfied,15.7,1.3
+HH0798,Kakuma 2,2.0,2025-06-01,Cash Transfer,50.9,Very Satisfied,33.6,3.7
+HH0799,Kakuma 3,9.0,2025-06-10,Dry Rations,32.8,Satisfied,20.3,2.0
+HH0800,Kakuma 3,3.0,2025-06-20,Cash Transfer,32.4,Neutral,20.4,2.1
+HH0801,Kakuma 3,5.0,,Dry Rations,,Satisfied,34.5,4.9
+HH0802,Kakuma 3,8.0,2025-06-06,,,Satisfied,27.9,2.2
+HH0803,Kakuma 4,2.0,2025-06-07,Dry Rations,40.8,Satisfied,31.0,3.7
+HH0804,Kalobeyei,6.0,2025-06-20,,38.2,Unsatisfied,24.0,2.7
+HH0805,Kakuma 2,5.0,2025-06-23,E-Voucher,27.8,Neutral,17.4,2.2
+HH0806,Kakuma 2,9.0,2025-06-25,Cash Transfer,46.8,Satisfied,34.1,2.5
+HH0807,Kakuma 3,5.0,2025-06-27,Cash Transfer,44.1,Satisfied,28.2,
+HH0808,Kakuma 3,2.0,,Dry Rations,41.7,Satisfied,25.8,2.3
+HH0809,Kakuma 1,5.0,2025-06-11,Dry Rations,38.8,Very Satisfied,24.6,3.8
+HH0810,Kalobeyei,4.0,2025-06-19,Dry Rations,37.1,,29.1,3.4
+HH0811,Kakuma 4,7.0,2025-06-05,E-Voucher,,Very Satisfied,37.5,3.6
+HH0812,Kakuma 2,,2025-06-19,E-Voucher,38.6,Unsatisfied,25.9,2.4
+HH0813,Kakuma 1,2.0,2025-06-11,Dry Rations,39.4,Satisfied,28.8,3.8
+HH0814,Kakuma 1,5.0,2025-06-24,,45.3,Neutral,32.0,3.0
+HH0815,Kakuma 2,7.0,2025-06-12,Cash Transfer,42.1,Very Unsatisfied,,2.4
+HH0816,Kakuma 4,7.0,2025-06-10,E-Voucher,,Very Unsatisfied,41.5,4.4
+HH0817,,,,E-Voucher,22.4,Satisfied,16.3,2.2
+HH0818,Kakuma 1,9.0,,Dry Rations,43.0,Very Satisfied,,2.2
+HH0819,Kalobeyei,,2025-06-28,Cash Transfer,32.9,Neutral,20.0,2.0
+HH0820,Kakuma 4,3.0,2025-06-28,Dry Rations,30.6,Unsatisfied,21.1,3.0
+HH0821,Kakuma 1,4.0,2025-06-09,E-Voucher,35.4,Satisfied,27.5,2.1
+HH0822,Kakuma 4,,2025-06-04,Cash Transfer,40.5,Neutral,28.9,
+HH0823,Kakuma 2,6.0,2025-06-05,Cash Transfer,41.0,Neutral,31.4,3.2
+HH0824,Kakuma 3,3.0,,E-Voucher,24.8,Unsatisfied,19.8,2.3
+HH0825,Kakuma 1,2.0,2025-06-08,Dry Rations,34.6,Neutral,21.9,2.6
+HH0826,Kalobeyei,4.0,2025-06-23,Dry Rations,42.8,Very Satisfied,31.6,4.3
+HH0827,Kakuma 2,,2025-06-09,Cash Transfer,31.2,,22.9,2.6
+HH0828,Kakuma 4,4.0,2025-06-15,E-Voucher,28.9,,23.0,
+HH0829,Kakuma 2,3.0,2025-06-15,Cash Transfer,17.4,Neutral,13.9,1.7
+HH0830,Kakuma 1,8.0,2025-06-16,E-Voucher,33.4,Very Satisfied,24.6,2.4
+HH0831,Kakuma 4,4.0,2025-06-14,Dry Rations,28.5,Unsatisfied,18.5,1.8
+HH0832,Kakuma 3,2.0,2025-06-08,E-Voucher,30.2,Neutral,22.9,
+HH0833,Kakuma 2,2.0,,Dry Rations,37.3,Very Unsatisfied,23.2,2.4
+HH0834,Kakuma 1,1.0,2025-06-10,E-Voucher,34.0,Neutral,25.7,1.8
+HH0835,Kalobeyei,4.0,2025-06-28,Cash Transfer,,Unsatisfied,22.1,1.4
+HH0836,Kakuma 4,9.0,2025-06-20,,18.8,Very Unsatisfied,12.7,1.4
+HH0837,,7.0,2025-06-06,Cash Transfer,43.0,Neutral,31.2,3.9
+HH0838,Kakuma 2,7.0,2025-06-12,Cash Transfer,47.5,Very Satisfied,32.6,3.7
+HH0839,Kakuma 3,7.0,2025-06-02,,36.0,Satisfied,24.8,3.6
+HH0840,Kakuma 3,8.0,2025-06-07,Dry Rations,37.3,Satisfied,24.7,
+HH0841,Kalobeyei,1.0,2025-06-16,Cash Transfer,40.0,Very Satisfied,30.1,2.6
+HH0842,Kalobeyei,8.0,2025-06-03,Cash Transfer,55.8,,43.9,3.2
+HH0843,Kakuma 1,4.0,,Cash Transfer,24.3,Satisfied,19.2,1.4
+HH0844,Kakuma 1,,2025-06-03,Cash Transfer,35.9,Very Satisfied,22.8,2.3
+HH0845,Kalobeyei,4.0,2025-06-27,Dry Rations,22.8,Very Satisfied,17.7,2.0
+HH0846,Kalobeyei,,2025-06-18,Dry Rations,,Neutral,32.6,
+HH0847,Kakuma 4,7.0,2025-06-11,Cash Transfer,38.6,Neutral,25.1,3.8
+HH0848,,6.0,,E-Voucher,42.0,Very Satisfied,25.8,2.6
+HH0849,,1.0,2025-06-06,E-Voucher,41.5,Unsatisfied,27.1,3.9
+HH0850,Kakuma 3,8.0,2025-06-01,Dry Rations,49.9,Satisfied,,3.3
+HH0851,Kakuma 3,7.0,2025-06-28,Cash Transfer,45.4,Neutral,33.0,2.5
+HH0852,Kalobeyei,6.0,2025-06-01,Cash Transfer,48.3,Satisfied,35.9,4.5
+HH0853,Kakuma 4,6.0,,Dry Rations,29.3,Very Unsatisfied,19.1,2.4
+HH0854,Kakuma 2,,2025-06-08,E-Voucher,51.9,Very Satisfied,38.6,3.0
+HH0855,Kakuma 4,6.0,2025-06-05,E-Voucher,,Unsatisfied,19.9,2.3
+HH0856,Kakuma 4,9.0,2025-06-28,E-Voucher,33.4,Very Unsatisfied,22.5,2.1
+HH0857,Kakuma 3,9.0,2025-06-16,Dry Rations,42.7,Very Unsatisfied,31.0,
+HH0858,Kakuma 4,8.0,2025-06-11,E-Voucher,43.0,Very Unsatisfied,27.1,3.1
+HH0859,Kakuma 1,9.0,2025-06-05,Dry Rations,29.3,Very Satisfied,22.4,2.9
+HH0860,Kakuma 3,8.0,2025-06-04,Dry Rations,,Neutral,24.8,2.0
+HH0861,Kakuma 1,8.0,2025-06-30,Cash Transfer,54.9,Very Satisfied,40.1,
+HH0862,Kakuma 2,,2025-06-06,E-Voucher,25.3,Neutral,17.2,1.9
+HH0863,Kakuma 3,5.0,2025-06-14,Dry Rations,54.9,,39.5,4.1
+HH0864,Kakuma 2,4.0,2025-06-22,E-Voucher,37.6,Very Unsatisfied,23.4,2.5
+HH0865,Kakuma 3,2.0,2025-06-19,E-Voucher,16.6,Unsatisfied,,1.4
+HH0866,Kalobeyei,8.0,2025-06-09,,26.3,Neutral,,2.5
+HH0867,Kakuma 4,,2025-06-12,E-Voucher,30.4,Very Unsatisfied,19.9,2.9
+HH0868,Kalobeyei,,2025-06-11,Cash Transfer,33.8,Satisfied,25.8,3.1
+HH0869,Kakuma 2,7.0,2025-06-14,Dry Rations,39.0,Unsatisfied,31.2,3.6
+HH0870,Kakuma 4,9.0,2025-06-23,E-Voucher,13.0,Very Satisfied,8.3,1.0
+HH0871,Kakuma 3,2.0,2025-06-16,Dry Rations,41.9,Unsatisfied,27.4,3.8
+HH0872,Kakuma 4,3.0,2025-06-01,E-Voucher,29.4,Satisfied,21.5,1.9
+HH0873,Kakuma 1,4.0,2025-07-01,Dry Rations,53.9,Neutral,42.7,3.8
+HH0874,Kakuma 4,1.0,2025-06-13,E-Voucher,37.3,Very Satisfied,29.2,2.5
+HH0875,Kakuma 1,7.0,2025-06-23,E-Voucher,,Very Satisfied,34.6,3.6
+HH0876,Kakuma 4,2.0,2025-06-21,,51.1,Neutral,38.8,3.3
+HH0877,Kakuma 1,5.0,2025-06-21,E-Voucher,50.8,Unsatisfied,,5.0
+HH0878,Kakuma 2,1.0,2025-06-30,E-Voucher,34.3,Very Unsatisfied,27.3,
+HH0879,Kalobeyei,3.0,,E-Voucher,34.2,Unsatisfied,27.1,1.9
+HH0880,Kakuma 3,2.0,2025-06-02,E-Voucher,37.8,Satisfied,23.9,
+HH0881,Kakuma 4,1.0,2025-06-04,,46.4,Very Unsatisfied,30.6,2.5
+HH0882,Kalobeyei,,2025-06-28,E-Voucher,34.9,Unsatisfied,21.6,
+HH0883,Kakuma 3,5.0,2025-06-06,Dry Rations,38.8,Neutral,25.4,
+HH0884,Kakuma 3,1.0,2025-06-26,Cash Transfer,42.7,Satisfied,32.6,3.1
+HH0885,Kakuma 1,6.0,2025-07-01,E-Voucher,31.0,Satisfied,20.9,2.2
+HH0886,Kakuma 2,5.0,2025-06-27,Cash Transfer,30.3,Satisfied,18.7,2.7
+HH0887,Kakuma 2,3.0,2025-06-23,E-Voucher,38.4,Very Unsatisfied,25.7,3.3
+HH0888,Kalobeyei,7.0,,E-Voucher,,Very Satisfied,31.6,2.8
+HH0889,Kakuma 2,9.0,2025-06-05,,,Very Unsatisfied,32.2,3.0
+HH0890,Kakuma 4,9.0,2025-06-25,Dry Rations,46.7,Unsatisfied,31.9,3.1
+HH0891,Kakuma 2,9.0,2025-06-03,Cash Transfer,29.0,Very Satisfied,18.4,2.6
+HH0892,,,2025-06-01,Dry Rations,31.9,Unsatisfied,25.4,1.7
+HH0893,Kakuma 2,3.0,2025-06-04,Dry Rations,30.3,Very Satisfied,23.2,1.5
+HH0894,Kakuma 4,7.0,2025-06-25,Cash Transfer,54.1,Very Unsatisfied,35.5,4.9
+HH0895,Kakuma 1,5.0,2025-06-20,,38.8,Satisfied,23.8,2.9
+HH0896,,,2025-06-02,E-Voucher,40.2,Neutral,24.6,2.3
+HH0897,Kakuma 1,3.0,2025-06-26,Cash Transfer,40.6,Satisfied,25.3,2.5
+HH0898,Kakuma 1,6.0,2025-06-30,,32.8,Very Unsatisfied,23.5,3.2
+HH0899,Kakuma 1,7.0,2025-06-30,E-Voucher,55.6,Very Satisfied,43.7,5.2
+HH0900,Kakuma 3,9.0,2025-06-05,Dry Rations,44.1,Satisfied,30.8,3.8
+HH0901,Kakuma 3,1.0,2025-06-03,Cash Transfer,,Very Unsatisfied,31.1,3.0
+HH0902,Kakuma 1,7.0,,Cash Transfer,28.9,Unsatisfied,19.9,
+HH0903,Kalobeyei,8.0,2025-06-28,E-Voucher,28.4,Neutral,21.1,2.8
+HH0904,Kakuma 4,3.0,2025-06-29,E-Voucher,36.9,,27.5,3.6
+HH0905,Kakuma 4,4.0,2025-06-09,,33.0,,20.9,2.0
+HH0906,Kakuma 2,6.0,2025-06-20,Cash Transfer,29.3,Unsatisfied,19.7,2.7
+HH0907,Kalobeyei,7.0,2025-06-06,Dry Rations,36.3,Very Unsatisfied,26.4,2.2
+HH0908,Kakuma 3,4.0,2025-06-18,Dry Rations,37.8,,23.2,
+HH0909,Kakuma 1,8.0,,E-Voucher,41.4,Very Satisfied,27.8,3.5
+HH0910,Kakuma 2,5.0,2025-06-19,Cash Transfer,35.0,Very Unsatisfied,24.7,2.5
+HH0911,Kakuma 4,1.0,2025-06-28,Cash Transfer,29.9,Very Unsatisfied,23.9,
+HH0912,,,2025-06-12,Cash Transfer,30.3,Satisfied,21.1,1.6
+HH0913,Kakuma 3,3.0,2025-06-25,E-Voucher,52.1,Satisfied,39.8,3.9
+HH0914,,9.0,2025-06-11,E-Voucher,27.5,Very Satisfied,,
+HH0915,Kakuma 4,8.0,2025-06-02,E-Voucher,43.6,Very Unsatisfied,33.1,4.2
+HH0916,Kalobeyei,1.0,,E-Voucher,45.2,Satisfied,32.5,2.6
+HH0917,Kakuma 3,6.0,2025-06-12,E-Voucher,,Neutral,30.2,2.7
+HH0918,,9.0,2025-06-12,Cash Transfer,57.7,Neutral,39.4,4.7
+HH0919,Kalobeyei,7.0,2025-06-09,Dry Rations,45.0,Very Unsatisfied,32.4,2.6
+HH0920,Kakuma 4,4.0,2025-06-21,Cash Transfer,58.4,Satisfied,42.4,5.7
+HH0921,Kakuma 3,1.0,2025-06-24,Dry Rations,33.5,Very Satisfied,22.9,
+HH0922,Kalobeyei,2.0,2025-06-02,,33.7,Very Satisfied,21.2,2.0
+HH0923,Kalobeyei,5.0,2025-06-22,Dry Rations,45.3,Very Satisfied,28.0,2.5
+HH0924,Kalobeyei,5.0,2025-06-03,Cash Transfer,37.4,Neutral,22.6,2.0
+HH0925,Kakuma 3,8.0,2025-06-12,Cash Transfer,56.9,Satisfied,44.1,5.4
+HH0926,Kakuma 3,6.0,2025-06-28,Dry Rations,,Satisfied,28.1,2.6
+HH0927,Kakuma 2,8.0,2025-06-30,E-Voucher,29.6,Neutral,19.0,2.1
+HH0928,Kakuma 4,2.0,2025-06-26,E-Voucher,22.6,Very Satisfied,16.9,1.6
+HH0929,Kakuma 1,3.0,2025-06-16,Cash Transfer,39.2,Very Satisfied,26.0,
+HH0930,Kalobeyei,6.0,2025-06-21,Dry Rations,,Very Unsatisfied,27.4,2.1
+HH0931,Kakuma 2,3.0,2025-06-28,E-Voucher,43.1,Unsatisfied,27.3,2.6
+HH0932,Kakuma 1,6.0,2025-06-24,E-Voucher,52.1,,41.3,5.0
+HH0933,Kakuma 2,6.0,2025-06-26,Cash Transfer,50.8,Satisfied,39.1,4.8
+HH0934,Kakuma 3,2.0,2025-06-30,E-Voucher,,Satisfied,26.4,3.0
+HH0935,Kalobeyei,7.0,2025-06-01,Dry Rations,27.1,Unsatisfied,18.5,1.4
+HH0936,,2.0,2025-06-21,Cash Transfer,27.7,Very Unsatisfied,20.8,1.8
+HH0937,Kakuma 1,6.0,2025-06-03,Cash Transfer,32.6,Unsatisfied,20.5,2.7
+HH0938,Kakuma 1,,2025-06-20,Dry Rations,36.3,Very Satisfied,21.8,2.3
+HH0939,Kakuma 1,3.0,2025-06-02,Cash Transfer,43.1,Very Satisfied,26.0,4.1
+HH0940,Kakuma 1,,2025-06-09,E-Voucher,32.0,Satisfied,23.0,2.6
+HH0941,Kakuma 2,7.0,2025-06-19,E-Voucher,42.8,Neutral,29.6,2.3
+HH0942,Kalobeyei,4.0,2025-06-15,Dry Rations,43.6,Satisfied,30.7,4.2
+HH0943,,8.0,2025-06-18,E-Voucher,,Neutral,24.9,4.1
+HH0944,Kakuma 3,6.0,2025-06-26,Dry Rations,28.7,Unsatisfied,19.6,1.5
+HH0945,,4.0,2025-06-11,,44.7,Very Satisfied,33.2,3.4
+HH0946,Kakuma 3,5.0,2025-06-25,E-Voucher,60.8,,,4.0
+HH0947,Kakuma 2,9.0,2025-06-23,Dry Rations,42.5,Unsatisfied,,3.0
+HH0948,Kakuma 4,7.0,,E-Voucher,10.5,Very Satisfied,6.8,0.6
+HH0949,Kalobeyei,9.0,2025-06-22,Cash Transfer,52.4,Neutral,40.0,4.1
+HH0950,Kakuma 1,7.0,2025-06-17,Cash Transfer,33.0,Satisfied,23.7,
+HH0951,Kakuma 4,1.0,,Dry Rations,62.7,Satisfied,40.3,4.7
+HH0952,Kakuma 3,8.0,,E-Voucher,41.2,Satisfied,26.7,2.2
+HH0953,Kakuma 4,4.0,2025-06-11,,23.2,Unsatisfied,16.8,1.9
+HH0954,Kalobeyei,,2025-06-30,,19.4,Satisfied,14.9,1.3
+HH0955,Kakuma 1,7.0,2025-06-15,,55.4,Very Unsatisfied,37.8,5.1
+HH0956,Kakuma 1,3.0,,E-Voucher,51.1,Very Satisfied,33.3,3.7
+HH0957,Kalobeyei,8.0,2025-06-03,Dry Rations,,Unsatisfied,48.2,3.7
+HH0958,Kalobeyei,6.0,2025-06-01,Cash Transfer,40.1,Satisfied,,
+HH0959,Kakuma 3,5.0,2025-06-20,Dry Rations,39.4,Very Satisfied,,3.5
+HH0960,Kakuma 1,,2025-06-29,Dry Rations,36.2,,25.3,2.3
+HH0961,,8.0,2025-06-16,Cash Transfer,,Satisfied,,3.0
+HH0962,Kakuma 2,8.0,2025-06-02,Dry Rations,36.1,Very Satisfied,,2.2
+HH0963,Kakuma 2,,2025-06-02,Dry Rations,42.2,Very Unsatisfied,28.3,2.8
+HH0964,Kalobeyei,9.0,2025-06-03,E-Voucher,,Neutral,,2.3
+HH0965,Kakuma 3,5.0,2025-06-08,Dry Rations,,Very Unsatisfied,16.2,2.3
+HH0966,,4.0,2025-06-24,,41.6,,29.0,4.0
+HH0967,,6.0,2025-06-28,,31.3,Very Unsatisfied,22.3,1.9
+HH0968,Kalobeyei,6.0,2025-06-15,Cash Transfer,7.6,,6.0,0.5
+HH0969,Kakuma 4,2.0,2025-06-07,E-Voucher,45.5,Very Satisfied,34.6,2.6
+HH0970,Kalobeyei,8.0,2025-06-06,,28.9,,19.9,
+HH0971,Kakuma 4,7.0,2025-06-09,Dry Rations,46.6,Very Satisfied,34.7,3.4
+HH0972,,1.0,,Dry Rations,46.4,Satisfied,33.3,4.4
+HH0973,Kalobeyei,5.0,2025-06-28,,42.8,Very Satisfied,29.9,4.1
+HH0974,Kalobeyei,6.0,2025-06-01,,65.0,Unsatisfied,41.5,4.5
+HH0975,Kakuma 4,4.0,2025-06-08,Dry Rations,38.6,Very Satisfied,26.7,2.9
+HH0976,Kakuma 4,2.0,2025-06-23,Cash Transfer,37.1,Unsatisfied,,3.5
+HH0977,Kalobeyei,4.0,2025-06-23,Dry Rations,46.8,Very Satisfied,36.6,4.2
+HH0978,Kakuma 2,1.0,2025-07-01,E-Voucher,39.4,Very Satisfied,26.3,2.0
+HH0979,Kakuma 3,7.0,2025-06-03,,51.6,Very Unsatisfied,40.8,3.4
+HH0980,Kakuma 3,2.0,2025-06-04,Cash Transfer,,Satisfied,19.3,1.9
+HH0981,Kakuma 3,2.0,2025-06-26,Dry Rations,27.5,Satisfied,20.0,1.7
+HH0982,Kakuma 4,9.0,2025-06-25,Cash Transfer,47.7,Neutral,33.8,
+HH0983,Kakuma 4,,2025-06-15,Cash Transfer,28.4,Very Unsatisfied,17.8,1.5
+HH0984,Kakuma 2,2.0,,E-Voucher,46.1,Very Unsatisfied,31.1,
+HH0985,Kakuma 3,9.0,2025-06-15,E-Voucher,43.7,Satisfied,27.1,2.8
+HH0986,Kakuma 3,9.0,2025-07-01,Dry Rations,33.1,Very Unsatisfied,24.0,1.7
+HH0987,Kalobeyei,1.0,2025-06-21,E-Voucher,43.7,Satisfied,30.1,2.7
+HH0988,Kakuma 4,3.0,2025-06-03,Dry Rations,27.7,Very Unsatisfied,20.9,2.5
+HH0989,Kakuma 3,4.0,2025-06-25,Dry Rations,30.0,Very Satisfied,19.3,2.8
+HH0990,Kakuma 2,7.0,2025-06-21,Dry Rations,37.6,Satisfied,23.8,2.8
+HH0991,Kakuma 2,4.0,2025-06-21,Cash Transfer,40.8,Satisfied,27.8,
+HH0992,Kakuma 3,2.0,2025-06-14,E-Voucher,37.0,Unsatisfied,29.1,3.7
+HH0993,Kakuma 4,7.0,2025-06-20,Dry Rations,44.3,Very Unsatisfied,32.9,
+HH0994,Kakuma 2,6.0,,E-Voucher,43.9,Very Unsatisfied,30.0,2.7
+HH0995,Kalobeyei,3.0,2025-06-04,Dry Rations,55.3,Satisfied,38.9,3.6
+HH0996,Kakuma 2,6.0,2025-06-12,E-Voucher,39.0,Very Satisfied,24.1,2.3
+HH0997,Kakuma 1,6.0,2025-06-17,E-Voucher,51.9,Very Satisfied,41.4,3.6
+HH0998,Kakuma 1,5.0,,,49.2,Very Satisfied,36.1,4.7
+HH0999,Kakuma 4,4.0,2025-06-09,Cash Transfer,62.9,Very Unsatisfied,41.3,5.1
+HH1000,Kakuma 3,1.0,2025-06-03,E-Voucher,,Unsatisfied,27.8,2.7
