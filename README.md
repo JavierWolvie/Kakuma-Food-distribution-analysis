@@ -1,144 +1,201 @@
-# Kakuma Food Distribution Analysis
+# 🥗 Kakuma Refugee Camp – Food Distribution Data Analysis
 
-Data-Driven Insights for Humanitarian Food Support in Kakuma Refugee Camp
+Prepared by: Akau Bior A.
+Date: 05 December 2025
 
-# 📌 Project Overview
+# 🏥 Introduction
 
-This project analyzes food distribution patterns in Kakuma Refugee Camp, focusing on fairness, efficiency, and beneficiary satisfaction. Using real distribution records, the analysis identifies gaps, trends, and insights to help humanitarian organizations make more informed decisions about ration allocation and service delivery.
+Kakuma Refugee Camp in Northern Kenya is home to hundreds of thousands of displaced individuals who rely on humanitarian organizations for essential support — with food distribution being one of the most critical services. Despite ongoing efforts by NGOs, UNHCR, and implementing partners, challenges persist in ensuring equitable food allocation, accurate tracking of distributed commodities, and timely reporting.
 
-The project includes:
+This project uses data analytics to examine food distribution patterns, identify inefficiencies, and recommend evidence-based improvements. By transforming raw distribution records into actionable insights, the goal is to enhance transparency, efficiency, and fairness in the food supply chain within the camp.
 
-Exploratory Data Analysis (EDA)
+⚠️ Business Problems
+1. Distribution Variability & Inequities
 
-Data cleaning and preprocessing
+Food rations sometimes vary across households or distribution centers due to logistical constraints, crowding, or reporting inconsistencies.
 
-Zone-level distribution comparison
+2. Data Quality Issues
 
-Household-based allocation analysis
+Duplicate records, missing household IDs, inconsistent units, and manual errors make it difficult to maintain accurate distribution logs.
 
-Beneficiary satisfaction dashboards
+3. Inefficient Resource Tracking
 
-Recommendations for improving distribution efficiency
+There is no centralized, real-time visibility into:
 
-# 🎯 Business Understanding
+Food stock levels
 
-Food distribution is one of the most critical activities in refugee camp management. However, challenges such as unequal allocation, inconsistent service quality, and missing household data can reduce the effectiveness of humanitarian support.
+Distribution quantities
 
-This project aims to answer important questions such as:
+Underserved households
 
-Are food rations distributed fairly across different zones?
+Commodity shortages
 
-Do larger households receive proportionally adequate rations?
+This limits responsive planning.
 
-Which ration types are most common, and how do they vary over time?
+4. Delayed Decision-Making
 
-What factors influence satisfaction among beneficiaries?
+Decision-makers rely on periodic, manually compiled reports that may not capture emerging shortages or distribution gaps in time.
 
-Are there trends or gaps that humanitarian agencies should address?
+# 🎯 Business Objectives
 
-The insights generated can support:
+The analysis aims to:
 
-Program monitoring
+Improve distribution efficiency: Identify delays, bottlenecks, and gaps.
 
-Decision-making for distribution planning
+Minimize ration discrepancies: Ensure households receive intended allocations.
 
-Identification of underserved areas
+Enhance data quality & accuracy: Standardize reporting and clean distribution logs.
 
-Enhanced accountability and transparency
+Support evidence-based planning: Provide insights for optimizing stock and staff deployment.
 
-# 📊 Dataset Description
+Predict demand: Forecast food requirements using trends and seasonal patterns.
 
-The dataset contains detailed records of 1,000 household-level distribution events with the following 10 columns:
+# 🧭 Business Understanding
+Key stakeholders
 
-Column Name	Description
-Household_ID	Unique identifier for each household.
-Zone	Geographic zone within Kakuma Camp. Helps monitor fairness in distribution.
-Household_Size	Number of household members. Important for ration scaling.
-Distribution_Date	Date when the household received food assistance.
-Ration_Type	Category of aid: Dry Rations, Cash Transfer, etc.
-Ration_Amount_Kg	Total kilograms of food allocated per household.
-Satisfaction_Rating	Beneficiary feedback on service delivery.
-Rice_Kg	Kilograms of rice distributed.
-Vegetable_Oil_L	Liters of vegetable oil distributed.
-Unnamed: 0	Export index column (no analytical value).
-Data Quality Notes
+UNHCR
 
-Some missing values in Zone, Household_Size, Distribution_Date, and ration-related columns.
+WFP (World Food Programme)
 
-Missing ration weights usually correspond to cash transfers instead of food rations.
+NGO implementing partners
 
-No duplicate Household_ID entries per distribution event.
+Distribution center managers
 
-Dates are consistent and within expected distribution period.
+Refugee households
 
-# 🧹 Data Cleaning Steps
+Context & Challenges
 
-Key cleaning tasks performed:
+High population density and constant movement of households
 
-Removed unnamed index column
+Manual registration processes
 
-Handled missing values using:
+Long queues and limited staffing
 
-Mode imputation for categorical fields
+Complex supply chain logistics involving multiple agencies
 
-Median imputation for numerical fields
+Limited technological infrastructure
 
-Converted dates to proper datetime format
+# ✔️ Success Criteria
 
-Standardized zone labels
+A successful solution should:
 
-Added new computed fields such as:
+Provide clean and accurate food distribution data
 
-Ration per person (Kg per household member)
+Visualize household coverage, supply gaps, and distribution trends
 
-Total nutritional contribution from rice and oil
+Track commodity stock levels and flag shortages
 
-# 🔍 Exploratory Data Analysis (EDA)
+Generate actionable insights for resource allocation
 
-The analysis focuses on:
+Support predictive analytics for future demand
 
-1. Allocation Fairness
+Be user-friendly for field teams
 
-Comparison of ration sizes across zones
+# 📊 Data Requirements
+Data Needed
 
-Identification of zones receiving below-average support
+Household ID, size, and location
 
-2. Household Size vs Ration Adequacy
+Distribution dates and cycle
 
-Testing if larger households receive more food proportionally
+Food items (e.g., maize, beans, oil)
 
-3. Satisfaction Levels
+Quantity received per household
 
-Relationship between satisfaction and:
+Stock levels at distribution centers
 
-Ration type
+Delivery/receipt logs
 
-Ration amount
+System Requirements
 
-Zone
+Central storage (Excel, SQL database, or CSV files)
 
-Household size
+Analytics tools: Excel, Power BI, Python
 
-4. Ration Type Trends
+Automated alerts for:
 
-Proportion of Dry Rations vs Cash Transfers
+Low stock
 
-Monthly distribution patterns
+Distribution delays
 
-5. Nutritional Breakdown
+Incomplete records
 
-Summaries of total rice and oil delivered
+# 🛠️ Proposed Solutions
+1. Data Analytics Dashboard
 
-Zone-level nutrition comparisons
+A Power BI or Excel dashboard displaying:
 
-# 📈 Key Insights (Summary)
+Total food distributed per cycle
 
-(You can expand this later once analysis is fully complete)
+Distribution coverage by zone
 
-Some zones receive significantly lower ration amounts compared to others.
+Households served vs. underserved
 
-Larger households often receive less food per person than smaller households.
+Commodity consumption trends
 
-Beneficiaries receiving cash transfers report slightly lower satisfaction.
+Real-time stock status
 
-Dates show irregular distribution cycles, indicating possible logistical challenges.
+2. Inventory Management Insights
+
+Use historical data to identify:
+
+Peak distribution periods
+
+Higher consumption commodities
+
+Centers with persistent shortages
+
+3. Predictive Modeling
+
+Forecast:
+
+Food demand for next distribution cycles
+
+Seasonal spikes
+
+Risk of shortages based on historical patterns
+
+4. Automated Reporting
+
+Generate weekly or monthly reports for UNHCR, WFP, and partners.
+
+# 🔧 Tools Used
+
+Excel: Data cleaning, calculations, pivot tables
+
+Power BI: Dashboards and KPIs
+
+Python (Pandas, Matplotlib): Data processing & visualization
+
+SQL: Managing structured datasets
+
+# 📁 Data Source
+
+Simulated and cleaned datasets inspired by food distribution records typically used in humanitarian operations (e.g., UNHCR/WFP distribution logs).
+No real refugee data is shared or exposed to protect privacy.
+
+# 📝 Key Insights (Example Findings)
+
+Identified underserved households during certain cycles
+
+Cleaned duplicates and corrected 200+ inconsistent entries
+
+Highlighted zones experiencing repeated shortages
+
+Created decision-ready visualizations for logistics planning
+
+# 📌 Recommendations
+
+Centralized Dashboard: Implement real-time monitoring of stock and distributions.
+
+Standardize Data Entry: Reduce inconsistencies and manual errors.
+
+Enable Predictive Supply Planning: Forecast future demand based on trends.
+
+Train Field Staff: Improve reporting accuracy and dashboard usage.
+
+Increase Coordination: Strengthen communication between NGOs, UNHCR, and community leaders to avoid stock imbalances.
+
+# 🔚 Conclusion
+
+Data-driven approaches can significantly improve food distribution in Kakuma Refugee Camp by ensuring fairness, reducing shortages, and optimizing stock management. This project demonstrates how analytics, dashboards, and improved reporting processes can support better decision-making and ensure that vulnerable communities receive timely and adequate food assistance.
